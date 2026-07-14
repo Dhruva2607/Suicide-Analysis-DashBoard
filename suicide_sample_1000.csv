@@ -1,0 +1,1001 @@
+country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+Argentina,1986,male,25-34 years,209,2246900,9.3,Argentina1986,,"110,934,442,763",4072,Boomers
+Chile,2007,male,55-74 years,270,1031049,26.19,Chile2007,,"173,605,968,179",11387,Silent
+Luxembourg,2003,male,55-74 years,8,39335,20.34,Luxembourg2003,,"29,557,325,056",69768,Silent
+New Zealand,1988,male,35-54 years,102,390900,26.09,New Zealand1988,,"45,493,075,684",14890,Silent
+Cyprus,1999,female,25-34 years,0,70201,0.0,Cyprus1999,,"10,614,455,232",12389,Generation X
+Albania,1993,male,55-74 years,7,165000,4.24,Albania1993,,"1,228,071,038",437,Silent
+Mexico,1990,male,15-24 years,472,9501000,4.97,Mexico1990,0.648,"262,709,948,091",3595,Generation X
+Austria,2003,female,75+ years,84,412619,20.36,Austria2003,,"261,695,778,781",33889,Silent
+Kyrgyzstan,2009,male,5-14 years,8,531076,1.51,Kyrgyzstan2009,,"4,690,062,255",977,Generation Z
+Mauritius,1993,female,5-14 years,2,97600,2.05,Mauritius1993,,"3,263,368,410",3405,Millenials
+Aruba,2006,male,55-74 years,0,7316,0.0,Aruba2006,,"2,421,474,860",25622,Silent
+Singapore,2002,female,55-74 years,18,220400,8.17,Singapore2002,,"91,941,192,896",29048,Silent
+Russian Federation,2012,female,35-54 years,1572,21564691,7.29,Russian Federation2012,,"2,210,256,976,945",16413,Generation X
+Saint Lucia,1999,female,15-24 years,1,14777,6.77,Saint Lucia1999,,"775,934,813",5590,Generation X
+France,1986,female,15-24 years,193,4219700,4.57,France1986,,"771,470,783,218",14940,Generation X
+Colombia,2001,female,15-24 years,302,3976430,7.59,Colombia2001,,"98,203,546,156",2662,Millenials
+United Kingdom,1989,female,15-24 years,87,4270368,2.04,United Kingdom1989,,"926,884,816,754",17349,Generation X
+Sweden,1989,male,75+ years,137,257100,53.29,Sweden1989,,"214,875,344,910",26978,G.I. Generation
+Latvia,2014,male,5-14 years,0,100453,0.0,Latvia2014,0.819,"31,335,013,752",16544,Generation Z
+Georgia,2009,female,75+ years,10,172650,5.79,Georgia2009,,"10,766,809,099",2589,Silent
+Jamaica,2006,female,55-74 years,0,149156,0.0,Jamaica2006,,"11,905,525,197",4738,Silent
+Bahrain,2004,female,5-14 years,0,67313,0.0,Bahrain2004,,"13,150,166,755",17497,Millenials
+Ukraine,1998,male,5-14 years,53,3605000,1.47,Ukraine1998,,"41,883,241,472",879,Millenials
+Antigua and Barbuda,1999,male,35-54 years,0,9537,0.0,Antigua and Barbuda1999,,"766,198,926",10378,Boomers
+Saint Lucia,1998,male,25-34 years,2,11650,17.17,Saint Lucia1998,,"737,554,872",5407,Generation X
+Belgium,1998,male,55-74 years,329,949378,34.65,Belgium1998,,"260,601,911,536",27087,Silent
+Argentina,2008,male,25-34 years,531,3172743,16.74,Argentina2008,,"361,558,037,110",9843,Generation X
+Australia,1992,female,15-24 years,76,1351300,5.62,Australia1992,,"324,878,105,053",20050,Generation X
+Turkmenistan,1998,male,15-24 years,92,463000,19.87,Turkmenistan1998,,"2,605,688,065",636,Generation X
+Saint Lucia,1998,female,5-14 years,0,17514,0.0,Saint Lucia1998,,"737,554,872",5407,Millenials
+Estonia,2001,male,5-14 years,4,90730,4.41,Estonia2001,,"6,245,069,734",4711,Millenials
+Sweden,2015,male,35-54 years,288,1289581,22.33,Sweden2015,,"497,918,109,302",54629,Generation X
+Slovenia,2008,female,75+ years,17,99156,17.14,Slovenia2008,,"55,589,849,128",28599,Silent
+Czech Republic,2006,female,5-14 years,0,488298,0.0,Czech Republic2006,,"155,463,807,113",15896,Millenials
+Russian Federation,1989,male,55-74 years,6250,9383700,66.6,Russian Federation1989,,"506,500,173,960",3740,G.I. Generation
+Costa Rica,1994,male,55-74 years,15,129900,11.55,Costa Rica1994,,"10,432,619,390",3562,Silent
+South Africa,2013,female,55-74 years,15,2938056,0.51,South Africa2013,0.663,"366,829,390,479",7612,Boomers
+Bulgaria,1991,female,55-74 years,188,999700,18.81,Bulgaria1991,,"10,943,548,387",1298,Silent
+Lithuania,1997,male,55-74 years,294,277983,105.76,Lithuania1997,,"10,120,274,493",3008,Silent
+Latvia,1997,female,15-24 years,9,163400,5.51,Latvia1997,,"6,525,676,264",2771,Generation X
+Germany,1995,male,35-54 years,3251,11336900,28.68,Germany1995,0.83,"2,591,620,035,485",33420,Boomers
+Canada,2003,male,75+ years,151,718916,21.0,Canada2003,,"892,380,986,368",29787,Silent
+Greece,2004,male,25-34 years,47,886382,5.3,Greece2004,,"240,521,260,988",22804,Generation X
+Croatia,1995,female,55-74 years,99,544100,18.2,Croatia1995,0.694,"22,387,561,845",4978,Silent
+Singapore,2011,female,5-14 years,0,219200,0.0,Singapore2011,0.903,"275,966,926,379",76638,Generation Z
+Belize,2013,male,15-24 years,4,35340,11.32,Belize2013,0.715,"1,612,573,850",5272,Millenials
+Canada,1992,male,25-34 years,739,2561600,28.85,Canada1992,,"592,387,689,253",22393,Boomers
+Brazil,1998,male,55-74 years,931,7040369,13.22,Brazil1998,,"863,723,411,633",5663,Silent
+Uruguay,2002,male,75+ years,78,67798,115.05,Uruguay2002,,"13,606,494,599",4439,Silent
+Guyana,2011,female,5-14 years,4,80748,4.95,Guyana2011,0.63,"2,576,024,116",3815,Generation Z
+Australia,2013,female,75+ years,48,847577,5.66,Australia2013,0.933,"1,573,696,522,007",72856,Silent
+Panama,1989,female,25-34 years,1,188050,0.53,Panama1989,,"5,918,469,800",2802,Boomers
+Croatia,2004,male,25-34 years,59,302300,19.52,Croatia2004,,"41,574,530,816",9829,Generation X
+Qatar,2008,female,55-74 years,0,13126,0.0,Qatar2008,,"115,270,054,945",87961,Silent
+Philippines,2002,male,15-24 years,346,8184036,4.23,Philippines2002,,"81,357,605,642",1158,Millenials
+Norway,2009,female,25-34 years,31,306776,10.11,Norway2009,,"386,622,457,580",85394,Generation X
+Armenia,2000,male,15-24 years,6,358000,1.68,Armenia2000,0.648,"1,911,563,665",530,Generation X
+Cyprus,2010,female,35-54 years,4,119200,3.36,Cyprus2010,0.848,"25,562,251,656",32477,Generation X
+Barbados,2000,male,75+ years,0,5251,0.0,Barbados2000,0.753,"3,121,500,000",12430,G.I. Generation
+Kuwait,2010,female,35-54 years,3,387443,0.77,Kuwait2010,0.809,"115,419,050,942",35171,Generation X
+Croatia,2002,female,75+ years,54,172600,31.29,Croatia2002,,"26,878,499,206",6373,Silent
+Aruba,1995,male,15-24 years,0,5227,0.0,Aruba1995,,"1,320,670,391",17949,Generation X
+Argentina,1999,male,5-14 years,21,3482230,0.6,Argentina1999,,"283,523,000,000",8546,Millenials
+Chile,1985,male,55-74 years,100,538000,18.59,Chile1985,0.654,"17,702,885,394",1658,G.I. Generation
+Bulgaria,1990,female,55-74 years,161,986100,16.33,Bulgaria1990,0.695,"20,632,090,909",2451,G.I. Generation
+Trinidad and Tobago,1994,male,35-54 years,35,148900,23.51,Trinidad and Tobago1994,,"4,947,205,860",4254,Boomers
+Barbados,1995,female,25-34 years,0,22700,0.0,Barbados1995,0.731,"2,261,969,870",9378,Generation X
+Ecuador,1992,male,5-14 years,7,1304282,0.54,Ecuador1992,,"18,094,238,119",1955,Millenials
+South Africa,2006,male,55-74 years,39,1858272,2.1,South Africa2006,,"271,811,088,781",6166,Silent
+Serbia,2013,male,55-74 years,338,849852,39.77,Serbia2013,0.771,"45,519,650,911",6662,Boomers
+Finland,1987,male,75+ years,57,80200,71.07,Finland1987,,"91,642,093,873",19861,G.I. Generation
+Republic of Korea,1985,male,35-54 years,903,4285700,21.07,Republic of Korea1985,,"100,273,097,170",2731,Silent
+Norway,2002,female,15-24 years,15,266365,5.63,Norway2002,,"195,418,347,153",46049,Millenials
+Poland,1996,female,25-34 years,79,2480100,3.19,Poland1996,,"159,942,880,457",4413,Generation X
+Serbia,1999,male,15-24 years,85,522386,16.27,Serbia1999,,"18,409,364,147",2570,Generation X
+Chile,2015,female,15-24 years,64,1343941,4.76,Chile2015,,"243,999,477,738",14729,Millenials
+Luxembourg,2005,male,15-24 years,6,27957,21.46,Luxembourg2005,0.88,"37,347,394,603",85397,Millenials
+Sweden,1994,male,25-34 years,139,638400,21.77,Sweden1994,,"226,079,963,712",27658,Boomers
+Kuwait,2000,male,75+ years,0,4156,0.0,Kuwait2000,0.804,"37,711,864,407",19112,G.I. Generation
+Ecuador,2007,male,25-34 years,157,1123771,13.97,Ecuador2007,,"51,007,777,000",4024,Generation X
+Philippines,2011,male,35-54 years,533,10412504,5.12,Philippines2011,0.653,"224,143,083,707",2662,Generation X
+Bahamas,1995,male,35-54 years,1,29800,3.36,Bahamas1995,,"3,429,000,000",13473,Boomers
+Suriname,1992,female,75+ years,0,3987,0.0,Suriname1992,,"404,600,000",1093,G.I. Generation
+Lithuania,1995,female,5-14 years,2,268965,0.74,Lithuania1995,0.701,"7,870,782,261",2324,Millenials
+Suriname,2005,female,75+ years,1,5644,17.72,Suriname2005,0.692,"1,793,754,805",4009,Silent
+Slovakia,2012,female,35-54 years,30,771132,3.89,Slovakia2012,0.836,"93,413,992,956",18256,Generation X
+Barbados,1990,female,35-54 years,2,26000,7.69,Barbados1990,0.716,"2,023,318,252",8537,Silent
+Maldives,2005,female,75+ years,0,1384,0.0,Maldives2005,0.638,"1,163,362,438",4026,Silent
+Italy,2014,male,5-14 years,5,2948232,0.17,Italy2014,0.873,"2,151,732,868,243",37035,Generation Z
+Bulgaria,2004,male,15-24 years,40,548773,7.29,Bulgaria2004,,"25,957,970,922",3485,Millenials
+Barbados,2010,female,15-24 years,0,18739,0.0,Barbados2010,0.78,"4,461,650,000",17034,Millenials
+Antigua and Barbuda,1987,female,15-24 years,0,7583,0.0,Antigua and Barbuda1987,,"337,174,852",5595,Generation X
+France,1987,male,35-54 years,2855,6973100,40.94,France1987,,"934,173,305,686",17999,Silent
+Belgium,2010,male,25-34 years,184,696461,26.42,Belgium2010,0.883,"483,548,031,197",47355,Generation X
+Austria,1999,male,35-54 years,386,1135873,33.98,Austria1999,,"217,185,787,343",28722,Boomers
+Argentina,2001,male,5-14 years,29,3519935,0.82,Argentina2001,,"268,696,750,000",7900,Millenials
+Guatemala,1998,male,15-24 years,54,1136859,4.75,Guatemala1998,,"19,395,491,993",2091,Generation X
+Suriname,2007,female,55-74 years,4,27614,14.49,Suriname2007,,"2,936,612,022",6397,Silent
+Trinidad and Tobago,1985,male,55-74 years,2,51000,3.92,Trinidad and Tobago1985,0.673,"7,375,918,367",7317,G.I. Generation
+Armenia,2012,female,35-54 years,7,428953,1.63,Armenia2012,0.728,"10,619,320,049",3773,Generation X
+Slovakia,1995,male,75+ years,37,67938,54.46,Slovakia1995,0.75,"25,733,043,137",5141,G.I. Generation
+Italy,2004,female,5-14 years,4,2655835,0.15,Italy2004,,"1,798,314,750,435",32704,Millenials
+Puerto Rico,1990,male,25-34 years,71,283000,25.09,Puerto Rico1990,,"30,603,919,000",9552,Boomers
+Slovakia,1995,female,5-14 years,5,416980,1.2,Slovakia1995,0.75,"25,733,043,137",5141,Millenials
+Iceland,2011,female,35-54 years,1,42475,2.35,Iceland2011,0.896,"14,732,689,535",49861,Generation X
+Saint Lucia,1995,male,15-24 years,2,13265,15.08,Saint Lucia1995,,"640,449,501",4947,Generation X
+Thailand,2014,male,75+ years,137,1005485,13.63,Thailand2014,0.726,"407,339,361,696",6662,Silent
+Puerto Rico,1991,male,55-74 years,68,195000,34.87,Puerto Rico1991,,"32,287,031,000",9974,Silent
+Albania,1996,male,75+ years,2,25400,7.87,Albania1996,,"3,314,898,292",1127,G.I. Generation
+Costa Rica,2000,male,15-24 years,53,366507,14.46,Costa Rica2000,0.704,"14,949,514,585",4233,Generation X
+Croatia,2006,female,55-74 years,90,534005,16.85,Croatia2006,,"50,453,577,898",11914,Silent
+United Kingdom,2010,male,55-74 years,696,6171080,11.28,United Kingdom2010,0.906,"2,441,173,394,730",41798,Silent
+Kuwait,2014,female,35-54 years,8,454428,1.76,Kuwait2014,0.816,"162,631,412,509",43774,Generation X
+Brazil,2015,male,15-24 years,1389,17569045,7.91,Brazil2015,,"1,802,214,373,741",9431,Millenials
+Hungary,2015,male,55-74 years,496,1065443,46.55,Hungary2015,,"122,879,042,002",13087,Boomers
+Thailand,1999,female,15-24 years,283,5409200,5.23,Thailand1999,,"126,668,932,160",2203,Generation X
+Grenada,2008,female,15-24 years,0,11953,0.0,Grenada2008,,"825,977,889",8733,Millenials
+Aruba,1999,female,75+ years,0,1475,0.0,Aruba1999,,"1,722,798,883",21027,G.I. Generation
+San Marino,2005,male,5-14 years,0,1545,0.0,San Marino2005,,"1,958,711,603",69301,Millenials
+Chile,1996,female,5-14 years,4,1361915,0.29,Chile1996,,"78,039,572,222",5946,Millenials
+Finland,2014,male,5-14 years,1,303796,0.33,Finland2014,0.883,"272,609,288,690",52832,Generation Z
+Turkey,2012,male,75+ years,58,886919,6.54,Turkey2012,0.756,"873,982,246,102",12671,Silent
+Finland,1990,female,35-54 years,124,706200,17.56,Finland1990,0.783,"141,517,648,888",30271,Silent
+Republic of Korea,1992,male,55-74 years,438,2042700,21.44,Republic of Korea1992,,"350,051,111,253",8671,Silent
+United States,2008,male,25-34 years,4273,20007152,21.36,United States2008,,"14,718,582,000,000",52128,Generation X
+Portugal,1990,female,25-34 years,27,732012,3.69,Portugal1990,0.71,"78,721,607,509",8356,Boomers
+Malta,2010,male,15-24 years,3,29208,10.27,Malta2010,0.824,"8,741,059,603",22132,Millenials
+Bahrain,2012,female,55-74 years,0,31641,0.0,Bahrain2012,0.819,"30,749,308,511",25587,Boomers
+Georgia,2010,male,35-54 years,29,590800,4.91,Georgia2010,0.735,"11,638,536,834",2775,Generation X
+Georgia,1999,female,75+ years,7,123800,5.65,Georgia1999,,"2,800,024,314",669,G.I. Generation
+Canada,2005,male,5-14 years,19,2044772,0.93,Canada2005,0.892,"1,169,357,979,865",38218,Millenials
+United States,1993,female,25-34 years,1089,20933400,5.2,United States1993,,"6,878,718,000,000",28891,Boomers
+Croatia,2013,female,5-14 years,0,204491,0.0,Croatia2013,0.817,"58,085,856,019",14362,Generation Z
+Estonia,2005,female,15-24 years,5,97515,5.13,Estonia2005,0.824,"14,006,088,297",10870,Millenials
+Kuwait,2007,male,55-74 years,2,99708,2.01,Kuwait2007,,"114,641,097,818",37283,Silent
+Saint Lucia,1993,male,75+ years,0,1930,0.0,Saint Lucia1993,,"574,870,405",4568,G.I. Generation
+Georgia,2015,male,75+ years,27,87600,30.82,Georgia2015,,"13,993,546,732",4046,Silent
+Russian Federation,1997,male,15-24 years,5780,10874000,53.15,Russian Federation1997,,"404,926,534,140",2907,Generation X
+El Salvador,1999,male,5-14 years,5,702754,0.71,El Salvador1999,,"11,284,197,000",2229,Millenials
+Finland,1990,female,25-34 years,48,372600,12.88,Finland1990,0.783,"141,517,648,888",30271,Boomers
+Kuwait,1994,female,25-34 years,7,132800,5.27,Kuwait1994,,"24,848,483,838",17161,Boomers
+Switzerland,2005,male,55-74 years,253,724348,34.93,Switzerland2005,0.904,"408,689,353,999",57790,Silent
+United Kingdom,2014,male,75+ years,257,2158742,11.91,United Kingdom2014,0.907,"3,022,827,781,881",49906,Silent
+Australia,2011,male,25-34 years,347,1610295,21.55,Australia2011,0.93,"1,394,280,784,778",66770,Millenials
+Russian Federation,1997,female,75+ years,1424,4360900,32.65,Russian Federation1997,,"404,926,534,140",2907,G.I. Generation
+Seychelles,2005,female,25-34 years,0,8022,0.0,Seychelles2005,0.736,"919,103,255",11361,Generation X
+Switzerland,2005,male,35-54 years,308,1150857,26.76,Switzerland2005,0.904,"408,689,353,999",57790,Boomers
+New Zealand,1995,male,55-74 years,64,264900,24.16,New Zealand1995,0.855,"63,918,039,320",18945,Silent
+Ireland,2004,female,15-24 years,8,315174,2.54,Ireland2004,,"193,870,350,137",51662,Millenials
+Russian Federation,1990,female,55-74 years,3064,15534000,19.72,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
+Colombia,1989,female,15-24 years,78,3489146,2.24,Colombia1989,,"39,540,080,200",1350,Generation X
+Guyana,1991,female,55-74 years,2,25913,7.72,Guyana1991,,"336,708,419",514,Silent
+Portugal,1988,female,75+ years,31,317051,9.78,Portugal1988,,"56,352,797,354",5995,G.I. Generation
+Bahrain,1985,female,35-54 years,1,26900,3.72,Bahrain1985,0.727,"3,651,861,702",9980,Silent
+Brazil,2000,female,15-24 years,345,17175577,2.01,Brazil2000,0.683,"655,420,645,477",4156,Generation X
+Ecuador,2009,male,15-24 years,214,1419517,15.08,Ecuador2009,,"62,519,686,000",4762,Millenials
+El Salvador,1997,female,15-24 years,109,561311,19.42,El Salvador1997,,"10,221,705,900",2065,Generation X
+Austria,2015,male,35-54 years,313,1279822,24.46,Austria2015,,"382,065,930,308",46484,Generation X
+Puerto Rico,2000,male,35-54 years,127,453001,28.04,Puerto Rico2000,,"61,701,800,000",17569,Boomers
+United States,1997,male,15-24 years,3559,18805800,18.93,United States1997,,"8,608,515,000,000",34644,Generation X
+Malta,1999,female,25-34 years,0,23300,0.0,Malta1999,,"4,127,313,818",11607,Generation X
+Panama,2004,male,55-74 years,22,152775,14.4,Panama2004,,"15,013,381,700",5144,Silent
+Iceland,1995,female,75+ years,1,7500,13.33,Iceland1995,0.826,"7,018,100,153",28680,G.I. Generation
+Barbados,2006,female,25-34 years,0,20256,0.0,Barbados2006,,"4,246,600,000",16531,Generation X
+United States,1995,female,5-14 years,77,18606000,0.41,United States1995,0.876,"7,664,060,000,000",31518,Millenials
+Georgia,1990,male,75+ years,14,62200,22.51,Georgia1990,,"7,753,501,868",1555,G.I. Generation
+Uzbekistan,2010,male,35-54 years,371,3142694,11.81,Uzbekistan2010,0.655,"39,332,770,929",1533,Generation X
+Republic of Korea,1994,female,15-24 years,243,4098900,5.93,Republic of Korea1994,,"455,602,962,225",11073,Generation X
+Thailand,2004,male,75+ years,93,719132,12.93,Thailand2004,,"172,895,476,153",2849,Silent
+Norway,1992,female,55-74 years,43,400400,10.74,Norway1992,,"130,838,040,068",32793,Silent
+Oman,2010,male,15-24 years,4,372402,1.07,Oman2010,0.795,"58,642,392,718",21337,Millenials
+Guyana,1996,male,75+ years,1,4206,23.78,Guyana1996,,"705,406,001",1070,G.I. Generation
+Italy,2014,female,75+ years,158,4042740,3.91,Italy2014,0.873,"2,151,732,868,243",37035,Silent
+Grenada,1991,male,15-24 years,0,8600,0.0,Grenada1991,,"300,757,889",3650,Generation X
+Slovenia,2013,female,55-74 years,38,245775,15.46,Slovenia2013,0.878,"48,116,256,926",24697,Boomers
+Luxembourg,1993,female,75+ years,1,15300,6.54,Luxembourg1993,,"16,486,900,187",44320,G.I. Generation
+Saint Vincent and Grenadines,2002,male,15-24 years,1,10839,9.23,Saint Vincent and Grenadines2002,,"461,883,444",4723,Millenials
+Iceland,1995,male,5-14 years,0,21900,0.0,Iceland1995,0.826,"7,018,100,153",28680,Millenials
+Israel,1995,male,5-14 years,3,549800,0.55,Israel1995,0.817,"100,343,219,507",20159,Millenials
+Bulgaria,2002,female,25-34 years,21,557945,3.76,Bulgaria2002,,"16,276,456,428",2157,Generation X
+El Salvador,2003,female,75+ years,1,71062,1.41,El Salvador2003,,"13,243,892,200",2507,Silent
+Netherlands,2008,male,55-74 years,252,1698728,14.83,Netherlands2008,,"936,228,211,513",60375,Silent
+Romania,1990,female,25-34 years,57,1521500,3.75,Romania1990,0.703,"38,995,454,545",1822,Boomers
+Germany,2012,female,15-24 years,121,4384528,2.76,Germany2012,0.915,"3,543,983,909,148",45142,Millenials
+Armenia,2009,female,5-14 years,0,172560,0.0,Armenia2009,,"8,647,936,748",3215,Generation Z
+Canada,2012,female,55-74 years,241,3756013,6.42,Canada2012,0.91,"1,824,288,757,448",55347,Boomers
+Greece,2005,female,55-74 years,17,1294740,1.31,Greece2005,0.853,"247,783,001,865",23414,Silent
+Brazil,2013,male,15-24 years,1317,17627508,7.47,Brazil2013,0.752,"2,472,806,919,902",13191,Millenials
+Guyana,1989,male,75+ years,1,4304,23.23,Guyana1989,,"379,779,390",581,G.I. Generation
+United Kingdom,1997,female,75+ years,107,2771148,3.86,United Kingdom1997,,"1,552,483,628,029",28091,G.I. Generation
+Saint Lucia,2010,male,25-34 years,0,13280,0.0,Saint Lucia2010,0.73,"1,381,968,259",8557,Generation X
+Iceland,1989,male,5-14 years,0,21700,0.0,Iceland1989,,"5,588,533,007",24089,Generation X
+Seychelles,2012,female,35-54 years,0,13691,0.0,Seychelles2012,0.761,"1,059,498,884",13044,Generation X
+Ireland,1992,female,25-34 years,11,252800,4.35,Ireland1992,,"55,985,506,499",17051,Boomers
+Republic of Korea,2007,male,5-14 years,25,3457021,0.72,Republic of Korea2007,,"1,122,679,154,632",23982,Generation Z
+Sri Lanka,2001,male,25-34 years,755,1469938,51.36,Sri Lanka2001,,"15,749,753,805",912,Generation X
+Philippines,2000,female,5-14 years,14,9414417,0.15,Philippines2000,0.623,"81,026,300,311",1205,Millenials
+Finland,1991,male,75+ years,67,86300,77.64,Finland1991,,"127,866,490,222",27214,G.I. Generation
+Finland,2001,male,75+ years,44,108828,40.43,Finland2001,,"129,250,111,857",26383,Silent
+Paraguay,2010,male,35-54 years,42,612290,6.86,Paraguay2010,0.668,"20,030,528,043",3619,Generation X
+Japan,1993,male,15-24 years,974,9691000,10.05,Japan1993,,"4,454,143,876,947",37832,Generation X
+Sweden,1997,female,5-14 years,3,545900,0.55,Sweden1997,,"264,477,727,279",31821,Millenials
+Bahamas,2011,female,55-74 years,0,26262,0.0,Bahamas2011,0.778,"10,070,450,000",29761,Boomers
+Switzerland,2006,male,55-74 years,262,737861,35.51,Switzerland2006,,"430,921,192,375",60536,Silent
+Czech Republic,2015,male,5-14 years,2,543129,0.37,Czech Republic2015,,"186,829,940,546",18703,Generation Z
+Brazil,1991,female,15-24 years,303,14737389,2.06,Brazil1991,,"602,860,000,000",4490,Generation X
+Belize,1986,male,25-34 years,1,12100,8.26,Belize1986,,"227,850,000",1552,Boomers
+Ecuador,2015,male,75+ years,40,191306,20.91,Ecuador2015,,"99,290,381,000",6832,Silent
+Saint Vincent and Grenadines,1996,female,25-34 years,0,8535,0.0,Saint Vincent and Grenadines1996,,"331,489,704",3450,Generation X
+Germany,2005,female,55-74 years,939,9632657,9.75,Germany2005,0.887,"2,861,410,272,354",36289,Silent
+Mauritius,2001,male,25-34 years,21,93054,22.57,Mauritius2001,,"4,536,538,211",4244,Generation X
+Argentina,1991,male,55-74 years,449,2130000,21.08,Argentina1991,,"189,719,984,268",6404,Silent
+Paraguay,1995,female,15-24 years,16,443966,3.6,Paraguay1995,0.604,"9,062,131,308",2223,Generation X
+Philippines,2009,female,75+ years,6,696919,0.86,Philippines2009,,"168,334,601,260",2073,Silent
+Ukraine,1991,male,25-34 years,1465,3801300,38.54,Ukraine1991,,"77,464,561,150",1607,Boomers
+Argentina,1990,female,15-24 years,91,2568000,3.54,Argentina1990,0.705,"141,352,368,715",4859,Generation X
+Iceland,2007,male,25-34 years,6,24445,24.54,Iceland2007,,"21,319,946,740",73590,Generation X
+Australia,2010,male,5-14 years,7,1420846,0.49,Australia2010,0.927,"1,144,260,547,873",54887,Generation Z
+Canada,2012,male,55-74 years,770,3586361,21.47,Canada2012,0.91,"1,824,288,757,448",55347,Boomers
+France,2003,female,25-34 years,281,4060810,6.92,France2003,,"1,840,480,812,641",32656,Generation X
+United States,2004,female,75+ years,423,11104411,3.81,United States2004,,"12,274,928,000,000",44867,Silent
+Japan,1999,female,55-74 years,3146,15244000,20.64,Japan1999,,"4,562,078,822,335",38164,Silent
+Argentina,1986,female,25-34 years,96,2197600,4.37,Argentina1986,,"110,934,442,763",4072,Boomers
+Costa Rica,1994,female,75+ years,0,29200,0.0,Costa Rica1994,,"10,432,619,390",3562,G.I. Generation
+Paraguay,2003,female,55-74 years,1,219923,0.45,Paraguay2003,,"6,588,103,836",1339,Silent
+Iceland,1989,female,25-34 years,1,20900,4.78,Iceland1989,,"5,588,533,007",24089,Boomers
+Argentina,1990,male,25-34 years,182,2297000,7.92,Argentina1990,0.705,"141,352,368,715",4859,Boomers
+Bahrain,2009,female,5-14 years,0,75122,0.0,Bahrain2009,,"22,938,218,085",20988,Generation Z
+Japan,1985,female,5-14 years,26,9041200,0.29,Japan1985,0.791,"1,398,892,744,821",12401,Generation X
+Luxembourg,1985,female,55-74 years,0,38300,0.0,Luxembourg1985,0.752,"4,738,559,685",13743,G.I. Generation
+Finland,1999,female,35-54 years,118,783884,15.05,Finland1999,,"135,225,868,315",27800,Boomers
+United Kingdom,1985,male,55-74 years,915,5170113,17.7,United Kingdom1985,0.753,"489,285,164,271",9231,G.I. Generation
+Hungary,2006,female,5-14 years,1,517602,0.19,Hungary2006,,"115,295,199,392",12021,Millenials
+Switzerland,2013,female,75+ years,37,401512,9.22,Switzerland2013,0.928,"688,504,173,431",89634,Silent
+Ecuador,1989,male,25-34 years,76,766852,9.91,Ecuador1989,,"13,890,828,708",1619,Boomers
+Australia,1988,male,55-74 years,317,1240700,25.55,Australia1988,,"235,699,941,793",15393,G.I. Generation
+Australia,1987,female,35-54 years,145,1950500,7.43,Australia1987,,"189,041,159,344",12564,Silent
+Latvia,1997,female,25-34 years,18,172900,10.41,Latvia1997,,"6,525,676,264",2771,Generation X
+Ukraine,2007,male,15-24 years,987,3673201,26.87,Ukraine2007,,"142,719,009,901",3229,Millenials
+Thailand,1997,female,55-74 years,117,3488033,3.35,Thailand1997,,"150,180,268,649",2689,Silent
+Belize,2007,female,25-34 years,0,23636,0.0,Belize2007,,"1,290,573,400",4951,Generation X
+Denmark,2001,female,55-74 years,83,541963,15.31,Denmark2001,,"164,791,416,350",32837,Silent
+Mexico,1994,female,55-74 years,28,3420700,0.82,Mexico1994,,"527,813,238,126",6735,Silent
+Denmark,2000,female,35-54 years,74,760859,9.73,Denmark2000,0.862,"164,158,800,460",32841,Boomers
+Republic of Korea,1986,female,35-54 years,236,4325800,5.46,Republic of Korea1986,,"115,537,126,326",3078,Silent
+Belgium,2001,female,25-34 years,55,699613,7.86,Belgium2001,,"237,841,968,680",24494,Generation X
+Chile,2011,female,5-14 years,12,1253907,0.96,Chile2011,0.821,"252,251,992,029",15854,Generation Z
+Hungary,2001,female,75+ years,157,419870,37.39,Hungary2001,,"53,821,315,066",5546,Silent
+Turkmenistan,1996,female,5-14 years,3,578800,0.52,Turkmenistan1996,,"2,379,281,768",608,Millenials
+New Zealand,1985,female,15-24 years,15,291600,5.14,New Zealand1985,0.805,"24,950,895,141",8246,Generation X
+Guatemala,1991,female,75+ years,0,51405,0.0,Guatemala1991,,"9,406,097,735",1194,G.I. Generation
+Latvia,2005,male,75+ years,19,38514,49.33,Latvia2005,0.806,"16,922,504,045",7916,Silent
+Austria,2005,female,75+ years,81,421281,19.23,Austria2005,0.853,"315,974,418,605",40367,Silent
+Malta,2009,male,25-34 years,9,31502,28.57,Malta2009,,"8,528,202,278",21695,Generation X
+Hungary,1998,male,55-74 years,620,876420,70.74,Hungary1998,,"48,770,466,839",5010,Silent
+Portugal,2009,female,35-54 years,66,1570466,4.2,Portugal2009,,"243,745,748,819",24254,Boomers
+Costa Rica,1992,male,25-34 years,30,280800,10.68,Costa Rica1992,,"8,528,593,084",3070,Boomers
+Japan,2002,female,55-74 years,2919,15754000,18.53,Japan2002,,"4,115,116,279,070",34239,Silent
+Uruguay,1997,male,5-14 years,1,271653,0.37,Uruguay1997,,"23,969,823,010",8012,Millenials
+Kyrgyzstan,2004,male,55-74 years,52,168247,30.91,Kyrgyzstan2004,,"2,211,535,312",484,Silent
+Japan,1988,female,75+ years,1865,3398000,54.89,Japan1988,,"3,071,683,013,179",26687,G.I. Generation
+Albania,1993,female,55-74 years,2,169500,1.18,Albania1993,,"1,228,071,038",437,Silent
+Ireland,1999,female,75+ years,5,113032,4.42,Ireland1999,,"98,691,849,563",28344,G.I. Generation
+Saint Kitts and Nevis,1990,female,25-34 years,0,2600,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,Boomers
+Czech Republic,2013,female,55-74 years,92,1347862,6.83,Czech Republic2013,0.868,"209,402,444,996",21073,Boomers
+Panama,2007,male,5-14 years,0,344045,0.0,Panama2007,,"21,295,984,200",6876,Generation Z
+Sweden,2005,female,75+ years,48,486935,9.86,Sweden2005,0.892,"389,042,298,377",45563,Silent
+Czech Republic,2001,male,55-74 years,285,897842,31.74,Czech Republic2001,,"67,523,642,262",6863,Silent
+Trinidad and Tobago,2008,male,15-24 years,23,120707,19.05,Trinidad and Tobago2008,,"27,870,257,894",22857,Millenials
+Romania,1999,male,25-34 years,322,1770400,18.19,Romania1999,,"36,183,003,978",1698,Generation X
+Malta,1997,female,5-14 years,0,27100,0.0,Malta1997,,"3,705,372,039",10575,Millenials
+Czech Republic,1995,male,55-74 years,280,828300,33.8,Czech Republic1995,0.785,"59,775,697,061",6134,Silent
+Spain,1990,female,75+ years,175,1359100,12.88,Spain1990,0.756,"535,101,248,776",14517,G.I. Generation
+Spain,2011,female,25-34 years,70,3430347,2.04,Spain2011,0.87,"1,488,067,258,325",34097,Millenials
+Luxembourg,2010,male,5-14 years,1,31209,3.2,Luxembourg2010,0.886,"53,212,476,812",111328,Generation Z
+Turkmenistan,1998,male,5-14 years,15,630400,2.38,Turkmenistan1998,,"2,605,688,065",636,Millenials
+Spain,1993,male,15-24 years,246,3354900,7.33,Spain1993,,"523,649,481,762",14106,Generation X
+Turkmenistan,2007,female,55-74 years,7,187318,3.74,Turkmenistan2007,,"12,664,165,103",2916,Silent
+Panama,2011,male,15-24 years,29,323984,8.95,Panama2011,0.759,"34,686,224,300",10403,Millenials
+Lithuania,2015,male,55-74 years,216,273776,78.9,Lithuania2015,,"41,508,609,233",15073,Boomers
+Azerbaijan,1994,male,35-54 years,11,651400,1.69,Azerbaijan1994,,"3,313,739,674",508,Boomers
+Finland,1999,male,25-34 years,167,341340,48.92,Finland1999,,"135,225,868,315",27800,Generation X
+Kuwait,2002,male,35-54 years,18,482228,3.73,Kuwait2002,,"38,137,545,245",17668,Boomers
+Guatemala,2013,male,15-24 years,124,1672018,7.42,Guatemala2013,0.626,"53,851,058,955",3947,Millenials
+Luxembourg,2000,female,15-24 years,1,24072,4.15,Luxembourg2000,0.851,"21,263,514,833",51841,Generation X
+Belgium,2007,female,55-74 years,166,1122161,14.79,Belgium2007,,"471,821,105,940",47040,Silent
+Kyrgyzstan,2008,female,25-34 years,25,411780,6.07,Kyrgyzstan2008,,"5,139,957,785",1096,Generation X
+Estonia,2006,female,15-24 years,5,96385,5.19,Estonia2006,,"16,963,625,016",13264,Millenials
+Guatemala,1992,male,5-14 years,0,1411211,0.0,Guatemala1992,,"10,440,842,165",1294,Millenials
+Chile,1995,female,15-24 years,32,1219884,2.62,Chile1995,0.723,"73,447,063,319",5695,Generation X
+Mauritius,1996,female,25-34 years,12,94900,12.64,Mauritius1996,,"4,421,943,910",4444,Generation X
+Australia,2012,male,25-34 years,351,1657638,21.17,Australia2012,0.932,"1,543,411,012,580",72669,Millenials
+Belgium,1991,male,25-34 years,235,813800,28.88,Belgium1991,,"211,637,816,539",22523,Boomers
+Belize,1997,male,55-74 years,0,7048,0.0,Belize1997,,"654,314,350",3487,Silent
+Malta,1988,female,5-14 years,0,27200,0.0,Malta1988,,"2,019,474,244",6295,Generation X
+Kyrgyzstan,2008,female,35-54 years,32,618891,5.17,Kyrgyzstan2008,,"5,139,957,785",1096,Boomers
+Denmark,2015,male,15-24 years,18,374051,4.81,Denmark2015,,"301,298,464,861",55972,Millenials
+Malta,2001,female,15-24 years,1,28539,3.5,Malta2001,,"4,331,870,648",11691,Millenials
+Kazakhstan,2011,female,55-74 years,78,1172197,6.65,Kazakhstan2011,0.772,"192,626,507,972",12969,Boomers
+Panama,1989,female,55-74 years,1,93400,1.07,Panama1989,,"5,918,469,800",2802,G.I. Generation
+Ireland,2003,male,55-74 years,57,304682,18.71,Ireland2003,,"164,285,112,867",44473,Silent
+Bulgaria,1996,male,15-24 years,95,626300,15.17,Bulgaria1996,,"10,109,612,142",1270,Generation X
+Aruba,2011,male,55-74 years,3,8940,33.56,Aruba2011,,"2,584,463,687",27066,Boomers
+Brazil,2015,female,25-34 years,466,17546090,2.66,Brazil2015,,"1,802,214,373,741",9431,Millenials
+Trinidad and Tobago,1987,female,25-34 years,7,102500,6.83,Trinidad and Tobago1987,,"4,797,777,778",4449,Boomers
+Belize,1997,male,15-24 years,0,22608,0.0,Belize1997,,"654,314,350",3487,Generation X
+Antigua and Barbuda,2001,female,15-24 years,0,6902,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Millenials
+Qatar,2006,male,55-74 years,1,33952,2.95,Qatar2006,,"60,882,142,857",64762,Silent
+Republic of Korea,2001,male,15-24 years,356,3912425,9.1,Republic of Korea2001,,"533,052,076,314",11922,Millenials
+Estonia,2011,male,75+ years,21,29683,70.75,Estonia2011,0.849,"23,170,239,901",18545,Silent
+Malta,1997,male,5-14 years,0,28800,0.0,Malta1997,,"3,705,372,039",10575,Millenials
+Guatemala,1994,male,25-34 years,30,603841,4.97,Guatemala1994,,"12,983,235,568",1538,Boomers
+Panama,2012,female,55-74 years,0,215955,0.0,Panama2012,0.772,"40,429,734,400",11908,Boomers
+Maldives,2011,male,75+ years,0,3263,0.0,Maldives2011,0.69,"2,774,351,760",8135,Silent
+Seychelles,1985,female,35-54 years,0,4800,0.0,Seychelles1985,,"168,887,539",2947,Silent
+Luxembourg,2007,female,15-24 years,2,27674,7.23,Luxembourg2007,,"50,888,134,410",112581,Millenials
+Austria,2006,female,35-54 years,91,1265873,7.19,Austria2006,,"335,998,557,270",42698,Boomers
+Bahrain,2002,female,5-14 years,0,63714,0.0,Bahrain2002,,"9,632,155,053",14572,Millenials
+Bahamas,2011,male,35-54 years,1,50932,1.96,Bahamas2011,0.778,"10,070,450,000",29761,Generation X
+Bulgaria,2013,male,15-24 years,32,397784,8.04,Bulgaria2013,0.779,"55,758,754,072",8057,Millenials
+Georgia,1995,male,15-24 years,14,370700,3.78,Georgia1995,,"2,693,731,866",611,Generation X
+Paraguay,2013,male,25-34 years,60,550647,10.9,Paraguay2013,0.677,"28,965,906,502",5006,Millenials
+Seychelles,2006,female,25-34 years,0,7902,0.0,Seychelles2006,,"1,016,418,229",12442,Generation X
+Italy,1988,male,15-24 years,237,4790900,4.95,Italy1988,,"888,667,913,419",16282,Generation X
+United Kingdom,1992,female,75+ years,143,2670510,5.35,United Kingdom1992,,"1,179,659,529,660",21815,G.I. Generation
+Austria,2014,male,75+ years,206,269625,76.4,Austria2014,0.885,"441,885,415,806",54278,Silent
+Kyrgyzstan,1999,female,55-74 years,23,227800,10.1,Kyrgyzstan1999,,"1,249,062,025",291,Silent
+Japan,1993,female,25-34 years,598,7933000,7.54,Japan1993,,"4,454,143,876,947",37832,Boomers
+Croatia,2000,male,55-74 years,229,379300,60.37,Croatia2000,0.749,"21,774,273,832",5288,Silent
+Norway,2001,male,15-24 years,61,276255,22.08,Norway2001,,"174,003,247,439",41281,Millenials
+Armenia,1992,female,25-34 years,0,340900,0.0,Armenia1992,,"1,272,577,456",385,Boomers
+Paraguay,2008,female,5-14 years,7,674138,1.04,Paraguay2008,,"18,504,130,753",3438,Generation Z
+Georgia,1998,female,35-54 years,10,631600,1.58,Georgia1998,,"3,613,500,117",858,Boomers
+Lithuania,2011,male,5-14 years,1,154519,0.65,Lithuania2011,0.831,"43,476,873,413",15097,Generation Z
+Italy,2013,female,5-14 years,4,2752044,0.15,Italy2013,0.873,"2,130,491,320,659",37050,Generation Z
+Maldives,2007,male,5-14 years,0,33952,0.0,Maldives2007,,"1,868,383,461",6115,Generation Z
+Ukraine,1994,male,5-14 years,60,3870700,1.55,Ukraine1994,,"52,549,555,149",1081,Millenials
+Republic of Korea,1995,female,5-14 years,28,3367300,0.83,Republic of Korea1995,,"556,130,926,913",13217,Millenials
+Japan,2004,male,5-14 years,27,6097000,0.44,Japan2004,,"4,815,148,854,362",39960,Millenials
+Russian Federation,2014,female,5-14 years,44,6979537,0.63,Russian Federation2014,,"2,063,662,665,172",15319,Generation Z
+Iceland,1988,male,5-14 years,0,21700,0.0,Iceland1988,,"6,016,168,896",26249,Generation X
+Cyprus,1999,male,5-14 years,0,73496,0.0,Cyprus1999,,"10,614,455,232",12389,Millenials
+Suriname,1989,male,5-14 years,0,43043,0.0,Suriname1989,,"542,520,000",1560,Generation X
+Spain,2005,male,15-24 years,164,2683966,6.11,Spain2005,0.845,"1,157,276,458,152",28092,Millenials
+Colombia,2004,male,25-34 years,397,3393144,11.7,Colombia2004,,"117,074,863,822",3033,Generation X
+Norway,1996,female,5-14 years,3,270700,1.11,Norway1996,,"163,517,783,497",40098,Millenials
+Russian Federation,2007,female,55-74 years,1738,15620091,11.13,Russian Federation2007,,"1,299,705,247,686",9643,Silent
+Bahamas,2013,female,35-54 years,1,54567,1.83,Bahamas2013,0.786,"10,627,600,000",30455,Generation X
+Malta,1994,male,25-34 years,3,26900,11.15,Malta1994,,"2,998,570,147",8775,Boomers
+Iceland,1991,male,35-54 years,6,30900,19.42,Iceland1991,,"6,807,365,898",28857,Boomers
+Turkey,2014,female,25-34 years,65,6325398,1.03,Turkey2014,0.761,"934,185,915,467",13170,Millenials
+United Kingdom,2009,male,5-14 years,4,3591283,0.11,United Kingdom2009,,"2,382,825,985,356",41074,Generation Z
+Portugal,2001,male,15-24 years,41,739952,5.54,Portugal2001,,"121,545,880,984",12391,Millenials
+Kyrgyzstan,2002,male,55-74 years,50,170209,29.38,Kyrgyzstan2002,,"1,605,640,633",359,Silent
+Belize,2011,male,15-24 years,9,33414,26.93,Belize2011,0.711,"1,487,005,600",5098,Millenials
+Turkey,2015,female,55-74 years,42,5456986,0.77,Turkey2015,,"859,796,872,794",11961,Boomers
+Guatemala,2008,male,15-24 years,132,1459853,9.04,Guatemala2008,,"39,136,893,345",3252,Millenials
+Israel,2011,female,75+ years,7,220868,3.17,Israel2011,0.888,"261,628,548,084",37528,Silent
+Antigua and Barbuda,2009,male,15-24 years,0,7489,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Millenials
+Thailand,2011,female,5-14 years,12,4164365,0.29,Thailand2011,0.721,"370,818,747,397",6153,Generation Z
+Ireland,2001,male,5-14 years,2,284509,0.7,Ireland2001,,"109,133,512,304",30536,Millenials
+Mauritius,2000,male,25-34 years,28,94136,29.74,Mauritius2000,0.674,"4,582,555,125",4339,Generation X
+Belarus,1995,male,15-24 years,210,734800,28.58,Belarus1995,,"13,972,676,841",1444,Generation X
+Italy,2001,female,35-54 years,300,8147857,3.68,Italy2001,,"1,162,317,852,349",21392,Boomers
+Lithuania,1996,female,35-54 years,129,484132,26.65,Lithuania1996,,"8,385,109,020",2484,Boomers
+Japan,1987,male,35-54 years,6688,18218000,36.71,Japan1987,,"2,532,808,573,157",22137,Silent
+Brazil,2010,male,75+ years,358,1882113,19.02,Brazil2010,0.737,"2,208,871,646,203",12161,Silent
+Thailand,2006,male,55-74 years,458,4090909,11.2,Thailand2006,,"221,758,486,880",3598,Silent
+United Kingdom,1985,female,35-54 years,505,6879295,7.34,United Kingdom1985,0.753,"489,285,164,271",9231,Silent
+Paraguay,2013,female,55-74 years,4,316626,1.26,Paraguay2013,0.677,"28,965,906,502",5006,Boomers
+Mexico,1994,male,5-14 years,46,10730100,0.43,Mexico1994,,"527,813,238,126",6735,Millenials
+Finland,1999,female,5-14 years,1,316199,0.32,Finland1999,,"135,225,868,315",27800,Millenials
+Greece,1992,female,5-14 years,0,673524,0.0,Greece1992,,"116,224,673,043",11818,Millenials
+Grenada,2007,male,55-74 years,1,4324,23.13,Grenada2007,,"758,683,593",8035,Silent
+Saint Vincent and Grenadines,1998,female,25-34 years,0,8318,0.0,Saint Vincent and Grenadines1998,,"373,619,852",3874,Generation X
+Maldives,2001,female,35-54 years,0,22699,0.0,Maldives2001,,"870,179,739",3406,Boomers
+Republic of Korea,1996,male,25-34 years,893,4615200,19.35,Republic of Korea1996,,"598,099,073,901",14071,Generation X
+El Salvador,1999,male,75+ years,8,44452,18.0,El Salvador1999,,"11,284,197,000",2229,G.I. Generation
+Maldives,2004,female,55-74 years,0,10331,0.0,Maldives2004,,"1,226,829,563",4373,Silent
+Slovenia,2003,male,55-74 years,134,181492,73.83,Slovenia2003,,"29,697,448,108",15568,Silent
+Antigua and Barbuda,2006,female,5-14 years,0,8571,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Millenials
+Colombia,1998,male,75+ years,51,271456,18.79,Colombia1998,,"98,443,739,941",2814,G.I. Generation
+Belarus,2009,female,15-24 years,45,716695,6.28,Belarus2009,,"49,209,523,810",5366,Millenials
+Seychelles,2007,female,25-34 years,1,7714,12.96,Seychelles2007,,"1,033,561,654",12554,Generation X
+Belgium,2009,female,25-34 years,52,690235,7.53,Belgium2009,,"484,552,792,442",47630,Generation X
+Uruguay,1987,male,25-34 years,15,207100,7.24,Uruguay1987,,"7,367,494,080",2651,Boomers
+Trinidad and Tobago,2010,female,5-14 years,1,87897,1.14,Trinidad and Tobago2010,0.772,"22,157,948,396",18000,Generation Z
+Switzerland,2001,female,25-34 years,35,527458,6.64,Switzerland2001,,"278,631,271,391",40582,Generation X
+Sweden,2010,female,25-34 years,31,564791,5.49,Sweden2010,0.901,"488,377,689,565",55352,Generation X
+Malta,1989,female,55-74 years,0,29500,0.0,Malta1989,,"2,118,574,772",6539,G.I. Generation
+Ireland,2009,female,15-24 years,20,292951,6.83,Ireland2009,,"236,311,336,482",57390,Millenials
+Hungary,1995,male,5-14 years,8,655969,1.22,Hungary1995,0.74,"46,418,916,500",4767,Millenials
+Ecuador,2004,female,5-14 years,30,1451359,2.07,Ecuador2004,,"36,591,661,000",3051,Millenials
+Uruguay,2003,male,35-54 years,107,383052,27.93,Uruguay2003,,"12,045,631,093",3929,Boomers
+Norway,1999,female,15-24 years,24,268442,8.94,Norway1999,,"162,286,003,693",39013,Generation X
+Kazakhstan,2008,female,75+ years,47,280166,16.78,Kazakhstan2008,,"133,441,612,247",9387,Silent
+Slovakia,2005,male,15-24 years,57,440028,12.95,Slovakia2005,0.793,"62,697,540,107",12229,Millenials
+New Zealand,1998,male,35-54 years,130,521600,24.92,New Zealand1998,,"56,227,696,195",16052,Boomers
+France,1992,male,15-24 years,589,4210800,13.99,France1992,,"1,401,465,923,172",26136,Generation X
+Mauritius,1987,female,15-24 years,28,102000,27.45,Mauritius1987,,"1,888,754,655",2073,Generation X
+Mexico,1988,female,55-74 years,21,2844000,0.74,Mexico1988,,"183,144,164,357",2630,G.I. Generation
+Chile,2009,female,35-54 years,155,2325328,6.67,Chile2009,,"172,389,498,445",11062,Boomers
+Sweden,1990,female,55-74 years,138,883800,15.61,Sweden1990,0.815,"258,154,283,909",32246,G.I. Generation
+Guatemala,2005,female,15-24 years,40,1358448,2.94,Guatemala2005,0.576,"27,211,377,225",2450,Millenials
+Belize,2005,male,55-74 years,0,7350,0.0,Belize2005,0.701,"1,114,222,550",4547,Silent
+Hungary,2015,female,75+ years,123,514721,23.9,Hungary2015,,"122,879,042,002",13087,Silent
+Argentina,2005,female,25-34 years,104,3011376,3.45,Argentina2005,0.775,"198,737,095,012",5590,Generation X
+Estonia,2005,female,35-54 years,12,195835,6.13,Estonia2005,0.824,"14,006,088,297",10870,Boomers
+Guatemala,1999,male,5-14 years,5,1586803,0.32,Guatemala1999,,"18,318,412,251",1926,Millenials
+Sweden,1999,male,15-24 years,78,527294,14.79,Sweden1999,,"270,847,937,645",32328,Generation X
+Italy,1990,female,5-14 years,6,3246400,0.18,Italy1990,0.766,"1,177,326,294,441",21472,Generation X
+Grenada,1990,female,25-34 years,0,4900,0.0,Grenada1990,,"278,098,778",3391,Boomers
+Kazakhstan,1998,female,55-74 years,160,1090300,14.67,Kazakhstan1998,,"22,135,245,413",1599,Silent
+Kuwait,2012,male,55-74 years,1,138505,0.72,Kuwait2012,0.815,"174,070,025,009",49781,Boomers
+Uzbekistan,2013,male,15-24 years,320,3171202,10.09,Uzbekistan2013,0.672,"57,690,453,461",2150,Millenials
+Argentina,2007,female,5-14 years,34,3414627,1.0,Argentina2007,,"287,530,508,431",7918,Generation Z
+Belarus,2003,female,55-74 years,177,1062435,16.66,Belarus2003,,"17,827,791,321",1892,Silent
+Belize,2013,male,55-74 years,1,12803,7.81,Belize2013,0.715,"1,612,573,850",5272,Boomers
+Argentina,1989,male,25-34 years,219,2287000,9.58,Argentina1989,,"76,636,898,036",2670,Boomers
+Serbia,2008,male,75+ years,175,204761,85.47,Serbia2008,,"49,259,526,053",7049,Silent
+Guatemala,1998,female,55-74 years,2,388431,0.51,Guatemala1998,,"19,395,491,993",2091,Silent
+Republic of Korea,1994,male,75+ years,105,227600,46.13,Republic of Korea1994,,"455,602,962,225",11073,G.I. Generation
+Finland,2008,male,75+ years,46,145022,31.72,Finland2008,,"283,742,493,042",56521,Silent
+Kuwait,2012,male,35-54 years,17,822229,2.07,Kuwait2012,0.815,"174,070,025,009",49781,Generation X
+Bulgaria,2013,male,35-54 years,164,1052928,15.58,Bulgaria2013,0.779,"55,758,754,072",8057,Generation X
+Luxembourg,2009,female,25-34 years,1,35557,2.81,Luxembourg2009,,"51,370,543,206",109483,Generation X
+Belarus,2008,female,25-34 years,66,723117,9.13,Belarus2008,,"60,763,483,146",6601,Generation X
+Barbados,2007,male,25-34 years,0,19468,0.0,Barbados2007,,"4,523,750,000",17528,Generation X
+Bahamas,2007,female,25-34 years,0,27419,0.0,Bahamas2007,,"10,618,340,000",33710,Generation X
+Chile,1988,male,15-24 years,112,1259000,8.9,Chile1988,,"26,040,229,793",2303,Generation X
+Kyrgyzstan,2006,male,75+ years,13,38110,34.11,Kyrgyzstan2006,,"2,834,168,889",610,Silent
+Japan,1987,female,15-24 years,569,8757000,6.5,Japan1987,,"2,532,808,573,157",22137,Generation X
+Ukraine,2014,male,5-14 years,21,2074827,1.01,Ukraine2014,0.747,"133,503,411,376",3299,Generation Z
+Costa Rica,2014,male,35-54 years,76,616724,12.32,Costa Rica2014,0.766,"50,577,769,838",11485,Generation X
+Greece,1990,female,75+ years,9,349600,2.57,Greece1990,0.759,"97,891,090,929",10179,G.I. Generation
+Bulgaria,2009,male,55-74 years,241,799938,30.13,Bulgaria2009,,"51,884,481,410",7186,Silent
+Singapore,2011,female,35-54 years,35,631700,5.54,Singapore2011,0.903,"275,966,926,379",76638,Generation X
+Kyrgyzstan,2013,female,25-34 years,19,472177,4.02,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Millenials
+Israel,2015,female,15-24 years,8,617440,1.3,Israel2015,,"299,093,839,690",39793,Millenials
+Poland,1992,female,35-54 years,388,5099300,7.61,Poland1992,,"94,337,050,693",2650,Boomers
+Croatia,2000,female,5-14 years,0,295200,0.0,Croatia2000,0.749,"21,774,273,832",5288,Millenials
+Turkmenistan,2000,male,25-34 years,85,352082,24.14,Turkmenistan2000,,"2,904,662,605",721,Generation X
+France,1989,male,15-24 years,681,4323100,15.75,France1989,,"1,025,211,803,414",19558,Generation X
+Maldives,2008,male,5-14 years,0,32676,0.0,Maldives2008,,"2,271,646,188",7236,Generation Z
+Malta,1985,female,35-54 years,0,46100,0.0,Malta1985,0.713,"1,117,835,286",3639,Silent
+Antigua and Barbuda,2014,male,55-74 years,0,5503,0.0,Antigua and Barbuda2014,0.783,"1,280,133,333",14093,Boomers
+Denmark,2007,female,5-14 years,0,334828,0.0,Denmark2007,,"319,423,370,134",62229,Generation Z
+Israel,2002,female,35-54 years,31,773340,4.01,Israel2002,,"121,069,378,150",20536,Boomers
+Latvia,1995,male,25-34 years,146,183200,79.69,Latvia1995,0.67,"5,788,368,511",2438,Generation X
+Puerto Rico,2011,female,25-34 years,7,269310,2.6,Puerto Rico2011,,"100,351,670,000",28876,Millenials
+Kyrgyzstan,2012,male,25-34 years,119,457076,26.04,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Millenials
+Guatemala,2009,male,55-74 years,38,448004,8.48,Guatemala2009,,"37,733,994,976",3053,Silent
+Poland,2007,male,25-34 years,648,3053025,21.22,Poland2007,,"429,063,549,984",11816,Generation X
+Ireland,1990,male,15-24 years,44,309400,14.22,Ireland1990,0.77,"49,364,681,256",15312,Generation X
+Kazakhstan,1996,female,55-74 years,211,1173100,17.99,Kazakhstan1996,,"21,035,357,833",1452,Silent
+Iceland,2016,female,55-74 years,2,32963,6.07,Iceland2016,,"20,304,098,101",64708,Boomers
+Spain,2001,female,55-74 years,228,4211088,5.41,Spain2001,,"625,975,838,926",16169,Silent
+Singapore,2008,female,55-74 years,29,296800,9.77,Singapore2008,,"192,225,881,688",55735,Silent
+Armenia,1992,male,25-34 years,15,312600,4.8,Armenia1992,,"1,272,577,456",385,Boomers
+Kyrgyzstan,1992,male,5-14 years,11,534400,2.06,Kyrgyzstan1992,,"2,316,562,500",603,Millenials
+Kazakhstan,1994,male,15-24 years,520,1442200,36.06,Kazakhstan1994,,"21,250,839,258",1395,Generation X
+Lithuania,2007,male,25-34 years,146,210164,69.47,Lithuania2007,,"39,738,180,077",12869,Generation X
+Antigua and Barbuda,2002,female,35-54 years,0,11760,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Boomers
+Brazil,2008,female,5-14 years,49,16914401,0.29,Brazil2008,,"1,695,824,571,927",9555,Generation Z
+Malta,1985,male,25-34 years,0,29600,0.0,Malta1985,0.713,"1,117,835,286",3639,Boomers
+Finland,1998,male,35-54 years,413,800963,51.56,Finland1998,,"133,936,359,591",27646,Boomers
+Austria,1985,male,25-34 years,232,548783,42.28,Austria1985,0.764,"69,386,774,475",9759,Boomers
+Aruba,2008,female,25-34 years,0,6757,0.0,Aruba2008,,"2,791,960,894",29447,Generation X
+Ecuador,1986,male,5-14 years,6,1345000,0.45,Ecuador1986,,"15,314,143,988",1943,Generation X
+Albania,1989,male,75+ years,2,22500,8.89,Albania1989,,"2,335,124,988",833,G.I. Generation
+Spain,2014,female,35-54 years,380,7373279,5.15,Spain2014,0.876,"1,376,910,811,041",31171,Generation X
+Sri Lanka,2001,female,35-54 years,244,2437630,10.01,Sri Lanka2001,,"15,749,753,805",912,Boomers
+Portugal,2014,female,5-14 years,2,511478,0.39,Portugal2014,0.83,"229,629,822,122",23091,Generation Z
+Jamaica,1991,male,55-74 years,1,111020,0.9,Jamaica1991,,"4,071,219,198",1889,Silent
+Republic of Korea,1992,male,75+ years,56,214000,26.17,Republic of Korea1992,,"350,051,111,253",8671,G.I. Generation
+Colombia,1989,female,75+ years,4,278074,1.44,Colombia1989,,"39,540,080,200",1350,G.I. Generation
+Costa Rica,2008,male,55-74 years,31,254352,12.19,Costa Rica2008,,"30,612,932,876",7517,Silent
+France,1996,female,15-24 years,165,3903000,4.23,France1996,,"1,605,675,086,550",29305,Generation X
+Puerto Rico,1991,male,25-34 years,47,292000,16.1,Puerto Rico1991,,"32,287,031,000",9974,Boomers
+Azerbaijan,2007,male,35-54 years,15,1146950,1.31,Azerbaijan2007,,"33,050,343,783",4172,Boomers
+Sweden,1999,female,5-14 years,0,566520,0.0,Sweden1999,,"270,847,937,645",32328,Millenials
+Cyprus,2015,male,25-34 years,7,67482,10.37,Cyprus2015,,"19,676,167,240",24718,Millenials
+Sweden,1994,female,35-54 years,134,1179900,11.36,Sweden1994,,"226,079,963,712",27658,Boomers
+Grenada,2007,male,5-14 years,0,10404,0.0,Grenada2007,,"758,683,593",8035,Generation Z
+Thailand,1994,female,55-74 years,72,2777000,2.59,Thailand1994,,"146,683,499,006",2784,Silent
+Argentina,2001,female,75+ years,57,978346,5.83,Argentina2001,,"268,696,750,000",7900,Silent
+New Zealand,2006,female,15-24 years,24,299490,8.01,New Zealand2006,,"111,608,845,081",28628,Millenials
+Poland,2010,female,5-14 years,6,1846837,0.32,Poland2010,0.829,"479,321,460,551",13304,Generation Z
+Qatar,2012,male,35-54 years,14,586307,2.39,Qatar2012,0.848,"186,833,516,484",93270,Generation X
+New Zealand,1989,male,15-24 years,111,285400,38.89,New Zealand1989,,"44,170,562,822",14417,Generation X
+Cuba,2012,male,75+ years,245,283396,86.45,Cuba2012,0.772,"73,141,000,000",6791,Silent
+New Zealand,1988,male,5-14 years,2,263500,0.76,New Zealand1988,,"45,493,075,684",14890,Generation X
+Brazil,1988,male,25-34 years,849,11593305,7.32,Brazil1988,,"330,397,381,998",2628,Boomers
+Ukraine,1991,female,15-24 years,137,3495000,3.92,Ukraine1991,,"77,464,561,150",1607,Generation X
+Trinidad and Tobago,1997,male,35-54 years,44,153642,28.64,Trinidad and Tobago1997,,"5,737,751,332",4937,Boomers
+Hungary,2009,female,25-34 years,42,770068,5.45,Hungary2009,,"130,593,960,612",13697,Generation X
+Bahrain,2000,female,25-34 years,1,53263,1.88,Bahrain2000,0.794,"9,062,906,915",15345,Generation X
+United Kingdom,2009,female,55-74 years,229,6497453,3.52,United Kingdom2009,,"2,382,825,985,356",41074,Silent
+Saint Vincent and Grenadines,1997,male,75+ years,0,1245,0.0,Saint Vincent and Grenadines1997,,"347,770,000",3613,G.I. Generation
+Puerto Rico,1991,female,5-14 years,0,320000,0.0,Puerto Rico1991,,"32,287,031,000",9974,Millenials
+Slovakia,1999,female,35-54 years,44,766900,5.74,Slovakia1999,,"30,415,095,887",5966,Boomers
+Belgium,2012,male,15-24 years,100,681023,14.68,Belgium2012,0.889,"497,884,216,569",47678,Millenials
+Serbia,2010,female,25-34 years,18,505753,3.56,Serbia2010,0.757,"39,460,357,731",5682,Generation X
+Serbia,2015,female,25-34 years,21,461733,4.55,Serbia2015,,"37,160,332,465",5492,Millenials
+Sri Lanka,1996,female,15-24 years,500,1726757,28.96,Sri Lanka1996,,"13,897,738,375",834,Generation X
+Portugal,2000,female,25-34 years,9,778058,1.16,Portugal2000,0.782,"118,358,489,958",12152,Generation X
+Armenia,2014,male,5-14 years,0,196975,0.0,Armenia2014,0.733,"11,609,512,940",4142,Generation Z
+Finland,2009,female,75+ years,20,273822,7.3,Finland2009,,"251,499,027,508",49878,Silent
+Slovenia,2012,male,55-74 years,118,227915,51.77,Slovenia2012,0.878,"46,352,802,766",23820,Boomers
+Mongolia,2016,female,55-74 years,1,148196,0.67,Mongolia2016,,"11,183,458,131",4145,Boomers
+Barbados,2001,female,55-74 years,0,20967,0.0,Barbados2001,,"3,116,650,000",12348,Silent
+Israel,1989,female,55-74 years,33,293900,11.23,Israel1989,,"49,881,433,991",12405,G.I. Generation
+Singapore,2011,female,15-24 years,14,255000,5.49,Singapore2011,0.903,"275,966,926,379",76638,Millenials
+United States,1998,female,75+ years,520,10057000,5.17,United States1998,,"9,089,168,000,000",36164,G.I. Generation
+Bulgaria,1990,female,15-24 years,26,618000,4.21,Bulgaria1990,0.695,"20,632,090,909",2451,Generation X
+Brazil,1991,male,25-34 years,1002,12481850,8.03,Brazil1991,,"602,860,000,000",4490,Boomers
+Poland,2009,male,15-24 years,608,2851473,21.32,Poland2009,,"439,796,160,379",12141,Millenials
+Turkmenistan,1995,female,75+ years,1,33700,2.97,Turkmenistan1995,,"2,482,228,440",650,G.I. Generation
+Cuba,1993,male,25-34 years,245,1042700,23.5,Cuba1993,,"22,367,254,865",2236,Boomers
+Bulgaria,2007,female,15-24 years,9,493056,1.83,Bulgaria2007,,"44,411,476,557",6073,Millenials
+Argentina,2007,male,75+ years,225,634995,35.43,Argentina2007,,"287,530,508,431",7918,Silent
+Spain,1988,male,55-74 years,651,3307000,19.69,Spain1988,,"375,138,723,325",10250,G.I. Generation
+Bosnia and Herzegovina,2011,male,35-54 years,2,549187,0.36,Bosnia and Herzegovina2011,0.724,"18,644,723,861",5076,Generation X
+Ecuador,1997,female,55-74 years,6,479370,1.25,Ecuador1997,,"28,162,053,027",2701,Silent
+Saint Vincent and Grenadines,1996,female,15-24 years,0,10978,0.0,Saint Vincent and Grenadines1996,,"331,489,704",3450,Generation X
+Kyrgyzstan,1997,male,35-54 years,143,411600,34.74,Kyrgyzstan1997,,"1,767,864,036",435,Boomers
+New Zealand,1989,female,75+ years,2,92200,2.17,New Zealand1989,,"44,170,562,822",14417,G.I. Generation
+Ecuador,1987,female,35-54 years,16,775400,2.06,Ecuador1987,,"13,945,431,882",1669,Silent
+Costa Rica,2012,female,35-54 years,16,609857,2.62,Costa Rica2012,0.761,"46,473,128,286",10832,Generation X
+Greece,2011,female,35-54 years,29,1665130,1.74,Greece2011,0.864,"287,797,822,093",26825,Generation X
+Denmark,2006,female,75+ years,25,236472,10.57,Denmark2006,,"282,884,912,894",55354,Silent
+Uzbekistan,2009,male,25-34 years,252,2295850,10.98,Uzbekistan2009,,"33,689,223,673",1332,Generation X
+Ireland,1997,female,15-24 years,19,313447,6.06,Ireland1997,,"82,826,146,132",24259,Generation X
+Lithuania,2012,male,75+ years,53,76080,69.66,Lithuania2012,0.833,"42,848,195,256",15099,Silent
+Mauritius,1987,male,55-74 years,6,45800,13.1,Mauritius1987,,"1,888,754,655",2073,G.I. Generation
+Georgia,2006,male,55-74 years,16,335050,4.78,Georgia2006,,"7,745,406,201",1859,Silent
+Panama,2000,male,75+ years,10,30201,33.11,Panama2000,0.714,"12,304,115,000",4577,G.I. Generation
+Aruba,2000,male,25-34 years,3,6828,43.94,Aruba2000,,"1,873,452,514",22333,Generation X
+Trinidad and Tobago,1988,male,25-34 years,39,104100,37.46,Trinidad and Tobago1988,,"4,496,852,073",4104,Boomers
+Montenegro,2004,female,75+ years,0,15351,0.0,Montenegro2004,,"2,073,234,418",3565,Silent
+Finland,2006,male,75+ years,44,135396,32.5,Finland2006,,"216,552,502,823",43487,Silent
+Uruguay,2001,female,25-34 years,14,236799,5.91,Uruguay2001,,"20,898,788,417",6827,Generation X
+Guyana,2006,male,25-34 years,46,54309,84.7,Guyana2006,,"1,458,449,453",2182,Generation X
+Paraguay,1985,female,15-24 years,9,362788,2.48,Paraguay1985,0.564,"2,966,234,106",964,Generation X
+Mauritius,1985,female,5-14 years,0,100900,0.0,Mauritius1985,0.575,"1,080,642,033",1223,Generation X
+Sweden,1992,female,5-14 years,0,485300,0.0,Sweden1992,,"280,312,318,915",34721,Millenials
+Luxembourg,1998,female,15-24 years,1,23701,4.22,Luxembourg1998,,"20,209,122,027",50788,Generation X
+Bulgaria,2001,male,25-34 years,100,569711,17.55,Bulgaria2001,,"14,075,616,789",1854,Generation X
+Suriname,2009,male,5-14 years,1,52427,1.91,Suriname2009,,"3,875,409,836",8238,Generation Z
+Slovenia,2004,male,15-24 years,30,139197,21.55,Slovenia2004,,"34,470,227,454",18067,Millenials
+Mexico,1993,female,55-74 years,32,3305700,0.97,Mexico1993,,"500,736,065,605",6518,Silent
+Costa Rica,2000,male,75+ years,6,35531,16.89,Costa Rica2000,0.704,"14,949,514,585",4233,G.I. Generation
+Bosnia and Herzegovina,2011,female,5-14 years,0,246977,0.0,Bosnia and Herzegovina2011,0.724,"18,644,723,861",5076,Generation Z
+Cuba,2012,female,75+ years,52,364108,14.28,Cuba2012,0.772,"73,141,000,000",6791,Silent
+Jamaica,1991,female,25-34 years,0,198469,0.0,Jamaica1991,,"4,071,219,198",1889,Boomers
+Kiribati,1993,female,35-54 years,0,6730,0.0,Kiribati1993,,"46,919,625",735,Boomers
+Belgium,2014,male,25-34 years,168,728759,23.05,Belgium2014,0.89,"530,770,977,634",50173,Millenials
+Azerbaijan,2000,female,35-54 years,3,1000200,0.3,Azerbaijan2000,0.64,"5,272,617,196",711,Boomers
+Aruba,1995,male,25-34 years,4,7520,53.19,Aruba1995,,"1,320,670,391",17949,Generation X
+Thailand,1991,male,75+ years,44,371586,11.84,Thailand1991,,"98,234,695,722",1891,G.I. Generation
+Iceland,1988,female,55-74 years,1,18400,5.43,Iceland1988,,"6,016,168,896",26249,G.I. Generation
+Turkmenistan,1999,male,15-24 years,104,446967,23.27,Turkmenistan1999,,"2,450,686,660",619,Generation X
+Sweden,2010,female,75+ years,34,480218,7.08,Sweden2010,0.901,"488,377,689,565",55352,Silent
+New Zealand,2009,female,55-74 years,23,393990,5.84,New Zealand2009,,"121,338,622,025",30259,Silent
+Republic of Korea,2000,female,15-24 years,265,3767475,7.03,Republic of Korea2000,,"561,633,125,840",12686,Generation X
+Armenia,2000,female,5-14 years,0,328000,0.0,Armenia2000,0.648,"1,911,563,665",530,Millenials
+Kyrgyzstan,2015,female,75+ years,4,72276,5.53,Kyrgyzstan2015,,"6,678,178,340",1285,Silent
+Lithuania,1995,female,75+ years,37,109609,33.76,Lithuania1995,0.701,"7,870,782,261",2324,G.I. Generation
+Paraguay,2006,male,15-24 years,62,624318,9.93,Paraguay2006,,"10,646,157,920",2038,Millenials
+Mexico,2011,male,25-34 years,1024,9792087,10.46,Mexico2011,0.748,"1,180,489,563,964",10965,Millenials
+Finland,1987,male,55-74 years,225,380700,59.1,Finland1987,,"91,642,093,873",19861,G.I. Generation
+Australia,1999,male,55-74 years,315,1482441,21.25,Australia1999,,"388,395,162,301",22016,Silent
+Iceland,2009,female,35-54 years,6,42732,14.04,Iceland2009,,"12,944,114,736",43700,Boomers
+Turkey,2012,female,25-34 years,78,6314493,1.24,Turkey2012,0.756,"873,982,246,102",12671,Millenials
+France,2010,male,25-34 years,805,3829316,21.02,France2010,0.881,"2,642,609,548,930",44747,Generation X
+Belarus,2009,male,55-74 years,466,726459,64.15,Belarus2009,,"49,209,523,810",5366,Silent
+Cuba,2013,male,15-24 years,47,778739,6.04,Cuba2013,0.768,"77,148,000,000",7148,Millenials
+United Kingdom,2013,female,25-34 years,124,4356539,2.85,United Kingdom2013,0.902,"2,739,818,680,930",45594,Millenials
+Belarus,1997,female,15-24 years,50,744100,6.72,Belarus1997,,"14,128,408,566",1458,Generation X
+Grenada,1990,female,75+ years,0,1700,0.0,Grenada1990,,"278,098,778",3391,G.I. Generation
+Switzerland,2012,female,5-14 years,0,387636,0.0,Switzerland2012,0.927,"668,043,614,123",87951,Generation Z
+Seychelles,1987,male,75+ years,0,500,0.0,Seychelles1987,,"249,267,040",4276,G.I. Generation
+Ireland,1993,female,15-24 years,9,300100,3.0,Ireland1993,,"52,480,253,169",15872,Generation X
+Antigua and Barbuda,2001,male,25-34 years,0,7071,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Generation X
+Kuwait,1997,male,25-34 years,10,313700,3.19,Kuwait1997,,"30,354,434,553",18766,Generation X
+Uruguay,2014,female,55-74 years,37,322676,11.47,Uruguay2014,0.793,"57,236,013,086",18012,Boomers
+Cuba,2004,male,75+ years,187,223380,83.71,Cuba2004,,"38,203,000,000",3611,Silent
+Slovenia,2014,male,75+ years,51,59850,85.21,Slovenia2014,0.88,"49,904,928,335",25569,Silent
+Finland,1998,female,25-34 years,38,335477,11.33,Finland1998,,"133,936,359,591",27646,Generation X
+Croatia,2006,male,5-14 years,2,252215,0.79,Croatia2006,,"50,453,577,898",11914,Millenials
+Ecuador,2012,male,15-24 years,240,1462193,16.41,Ecuador2012,0.727,"87,924,544,000",6364,Millenials
+Thailand,2011,female,55-74 years,217,4948016,4.39,Thailand2011,0.721,"370,818,747,397",6153,Boomers
+Netherlands,1999,female,55-74 years,123,1426700,8.62,Netherlands1999,,"441,975,282,335",29799,Silent
+Australia,1992,male,25-34 years,407,1417200,28.72,Australia1992,,"324,878,105,053",20050,Boomers
+Colombia,1996,male,15-24 years,289,3707736,7.79,Colombia1996,,"97,160,109,278",2883,Generation X
+Panama,1998,male,15-24 years,36,288189,12.49,Panama1998,,"11,575,486,400",4488,Generation X
+Turkey,2011,female,25-34 years,60,6266330,0.96,Turkey2011,0.751,"832,523,681,194",12237,Millenials
+Canada,1997,female,35-54 years,356,4525500,7.87,Canada1997,,"652,825,364,726",23245,Boomers
+Austria,2000,female,25-34 years,34,617481,5.51,Austria2000,0.836,"196,799,778,883",25922,Generation X
+Ireland,2013,male,25-34 years,68,341171,19.93,Ireland2013,0.912,"239,389,340,720",56628,Millenials
+Iceland,1992,female,75+ years,0,7000,0.0,Iceland1992,,"6,976,080,331",29311,G.I. Generation
+Ireland,1988,male,75+ years,15,59600,25.17,Ireland1988,,"37,818,134,253",11696,G.I. Generation
+Grenada,2002,male,55-74 years,0,4151,0.0,Grenada2002,,"540,336,926",5879,Silent
+Malta,2014,female,35-54 years,1,54883,1.82,Malta2014,0.839,"11,234,045,376",27634,Generation X
+Latvia,1998,male,75+ years,27,31100,86.82,Latvia1998,,"7,174,985,107",3061,G.I. Generation
+New Zealand,2008,female,35-54 years,52,631720,8.23,New Zealand2008,,"133,279,679,483",33585,Boomers
+Turkmenistan,2001,female,55-74 years,6,173382,3.46,Turkmenistan2001,,"3,534,803,922",863,Silent
+Argentina,2008,female,75+ years,36,1188016,3.03,Argentina2008,,"361,558,037,110",9843,Silent
+Ecuador,1994,female,55-74 years,3,432045,0.69,Ecuador1994,,"22,708,673,337",2335,Silent
+Singapore,2003,female,15-24 years,13,214300,6.07,Singapore2003,,"97,001,377,569",30067,Millenials
+Brazil,2014,female,75+ years,83,3634999,2.28,Brazil2014,0.755,"2,455,993,625,159",12975,Silent
+Turkmenistan,2011,female,75+ years,0,54342,0.0,Turkmenistan2011,0.671,"29,233,333,333",6319,Silent
+Singapore,2011,male,55-74 years,68,333700,20.38,Singapore2011,0.903,"275,966,926,379",76638,Boomers
+Bulgaria,1989,male,75+ years,213,174000,122.41,Bulgaria1989,,"21,988,444,444",2617,G.I. Generation
+Latvia,2009,male,55-74 years,114,187062,60.94,Latvia2009,,"26,169,854,045",12890,Silent
+Barbados,2004,female,75+ years,0,9237,0.0,Barbados2004,,"3,514,350,000",13786,Silent
+Latvia,2001,female,35-54 years,42,338359,12.41,Latvia2001,,"8,350,252,966",3724,Boomers
+Paraguay,1991,female,5-14 years,4,550401,0.73,Paraguay1991,,"6,984,367,763",1907,Millenials
+Ecuador,1990,female,35-54 years,17,883364,1.92,Ecuador1990,0.645,"15,239,278,100",1732,Silent
+Bulgaria,2006,male,75+ years,154,212480,72.48,Bulgaria2006,,"34,130,122,491",4638,Silent
+Republic of Korea,2005,female,15-24 years,421,3334069,12.63,Republic of Korea2005,,"898,137,194,716",19460,Millenials
+Albania,2009,male,25-34 years,0,174955,0.0,Albania2009,,"12,044,212,904",4387,Generation X
+Croatia,2016,male,15-24 years,30,242287,12.38,Croatia2016,,"51,338,524,831",12905,Millenials
+Austria,1996,male,55-74 years,381,690803,55.15,Austria1996,,"237,250,948,791",31660,Silent
+South Africa,2008,male,5-14 years,3,5264320,0.06,South Africa2008,,"287,099,991,517",6573,Generation Z
+Paraguay,1996,male,15-24 years,22,469606,4.68,Paraguay1996,,"9,788,391,733",2341,Generation X
+Guyana,1995,female,35-54 years,7,72700,9.63,Guyana1995,0.581,"621,626,786",939,Boomers
+Qatar,1995,female,5-14 years,0,43647,0.0,Qatar1995,0.783,"8,137,911,978",17559,Millenials
+Fiji,2011,male,25-34 years,10,73871,13.54,Fiji2011,0.72,"3,774,530,616",4862,Millenials
+Switzerland,2000,male,35-54 years,360,1094229,32.9,Switzerland2000,0.888,"272,055,499,941",39952,Boomers
+Armenia,2002,female,25-34 years,1,222943,0.45,Armenia2002,,"2,376,335,048",788,Generation X
+Belize,2015,male,15-24 years,2,36971,5.41,Belize2015,,"1,778,567,600",5561,Millenials
+Republic of Korea,1996,female,55-74 years,314,2965200,10.59,Republic of Korea1996,,"598,099,073,901",14071,Silent
+Saint Vincent and Grenadines,2010,male,15-24 years,0,10289,0.0,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Millenials
+Uruguay,2014,male,55-74 years,95,272749,34.83,Uruguay2014,0.793,"57,236,013,086",18012,Boomers
+Sweden,2003,female,25-34 years,58,576009,10.07,Sweden2003,,"331,108,912,605",38997,Generation X
+Spain,1991,female,75+ years,172,1384500,12.42,Spain1991,,"575,598,537,070",15574,G.I. Generation
+Netherlands,2000,male,5-14 years,5,1006683,0.5,Netherlands2000,0.877,"412,807,259,996",27644,Millenials
+Bulgaria,2012,male,15-24 years,45,418715,10.75,Bulgaria2012,0.778,"53,903,022,339",7745,Millenials
+Antigua and Barbuda,2002,female,15-24 years,0,7196,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Millenials
+Thailand,2013,female,55-74 years,190,5336311,3.56,Thailand2013,0.724,"420,333,333,333",6917,Boomers
+Guatemala,2000,male,5-14 years,5,1621778,0.31,Guatemala2000,0.552,"19,288,827,159",1977,Millenials
+Poland,2005,female,35-54 years,388,5514733,7.04,Poland2005,0.805,"306,125,173,853",8417,Boomers
+Ireland,2001,female,5-14 years,0,269812,0.0,Ireland2001,,"109,133,512,304",30536,Millenials
+Romania,1994,female,75+ years,55,508000,10.83,Romania1994,,"30,074,440,483",1406,G.I. Generation
+Austria,2016,female,35-54 years,95,1273241,7.46,Austria2016,,"390,799,991,147",46976,Generation X
+Suriname,2007,male,75+ years,3,4718,63.59,Suriname2007,,"2,936,612,022",6397,Silent
+Kazakhstan,1990,female,75+ years,85,291100,29.2,Kazakhstan1990,0.69,"26,932,728,899",1823,G.I. Generation
+Guatemala,1986,male,15-24 years,65,804664,8.08,Guatemala1986,,"7,231,963,516",1044,Generation X
+Georgia,2005,male,75+ years,5,73700,6.78,Georgia2005,0.711,"6,410,852,596",1552,Silent
+Belgium,1998,female,5-14 years,2,597469,0.33,Belgium1998,,"260,601,911,536",27087,Millenials
+Argentina,1988,female,75+ years,61,602000,10.13,Argentina1988,,"126,206,817,196",4458,G.I. Generation
+Greece,2011,male,55-74 years,110,1174903,9.36,Greece2011,0.864,"287,797,822,093",26825,Boomers
+Mauritius,2007,female,55-74 years,2,82534,2.42,Mauritius2007,,"8,150,138,757",7179,Silent
+Hungary,2015,female,15-24 years,15,551149,2.72,Hungary2015,,"122,879,042,002",13087,Millenials
+Latvia,2004,female,15-24 years,7,171538,4.08,Latvia2004,,"14,373,269,156",6644,Millenials
+South Africa,1998,male,55-74 years,12,1567615,0.77,South Africa1998,,"137,774,361,015",3512,Silent
+Singapore,1991,female,25-34 years,28,292600,9.57,Singapore1991,,"45,474,442,836",17768,Boomers
+Greece,2003,female,55-74 years,20,1290367,1.55,Greece2003,,"201,924,270,316",19202,Silent
+Guyana,1993,male,75+ years,0,4112,0.0,Guyana1993,,"442,273,433",671,G.I. Generation
+Mauritius,1991,male,5-14 years,0,103900,0.0,Mauritius1991,,"2,856,890,681",3045,Millenials
+Chile,1998,male,5-14 years,4,1431319,0.28,Chile1998,,"81,577,430,181",6023,Millenials
+Latvia,2007,female,15-24 years,6,166758,3.6,Latvia2007,,"30,901,399,261",14758,Millenials
+Kazakhstan,1996,male,15-24 years,635,1405800,45.17,Kazakhstan1996,,"21,035,357,833",1452,Generation X
+Bulgaria,2006,female,5-14 years,0,340240,0.0,Bulgaria2006,,"34,130,122,491",4638,Millenials
+United States,2013,female,5-14 years,143,20308672,0.7,United States2013,0.913,"16,691,517,000,000",56520,Generation Z
+Guatemala,1997,male,75+ years,2,57054,3.51,Guatemala1997,,"17,790,026,222",1967,G.I. Generation
+Australia,1996,female,5-14 years,7,1274800,0.55,Australia1996,,"400,302,731,411",23526,Millenials
+Israel,1988,male,55-74 years,51,248700,20.51,Israel1988,,"50,078,767,903",12687,G.I. Generation
+Belgium,1999,female,35-54 years,198,1462303,13.54,Belgium1999,,"260,202,429,150",26969,Boomers
+Norway,1987,male,25-34 years,94,321100,29.27,Norway1987,,"94,230,055,659",23980,Boomers
+Saint Vincent and Grenadines,2003,male,35-54 years,1,12755,7.84,Saint Vincent and Grenadines2003,,"481,806,296",4902,Boomers
+Costa Rica,2005,male,25-34 years,48,324955,14.77,Costa Rica2005,0.723,"19,952,156,475",5133,Generation X
+Argentina,1990,male,5-14 years,22,3269000,0.67,Argentina1990,0.705,"141,352,368,715",4859,Generation X
+Finland,2009,female,35-54 years,100,708103,14.12,Finland2009,,"251,499,027,508",49878,Boomers
+Republic of Korea,2000,female,55-74 years,481,3355684,14.33,Republic of Korea2000,,"561,633,125,840",12686,Silent
+United Kingdom,1992,female,5-14 years,0,3544844,0.0,United Kingdom1992,,"1,179,659,529,660",21815,Millenials
+Italy,2005,male,5-14 years,8,2809032,0.28,Italy2005,0.856,"1,852,661,982,341",33536,Millenials
+Cuba,2014,male,15-24 years,62,761440,8.14,Cuba2014,0.769,"80,656,100,000",7459,Millenials
+Guatemala,1991,male,75+ years,4,44056,9.08,Guatemala1991,,"9,406,097,735",1194,G.I. Generation
+Jamaica,1987,female,75+ years,0,41941,0.0,Jamaica1987,,"3,286,987,552",1587,G.I. Generation
+Belgium,2001,female,15-24 years,35,612659,5.71,Belgium2001,,"237,841,968,680",24494,Millenials
+Russian Federation,1999,male,25-34 years,8101,10022400,80.83,Russian Federation1999,,"195,905,767,669",1412,Generation X
+Mexico,2006,male,5-14 years,114,11875780,0.96,Mexico2006,,"975,387,131,716",9906,Millenials
+Belarus,2014,male,5-14 years,2,480895,0.42,Belarus2014,0.798,"78,813,839,984",8849,Generation Z
+Philippines,1999,male,5-14 years,14,9713454,0.14,Philippines1999,,"82,995,145,792",1262,Millenials
+Belarus,2009,male,35-54 years,903,1390214,64.95,Belarus2009,,"49,209,523,810",5366,Boomers
+Suriname,1989,female,55-74 years,4,18079,22.13,Suriname1989,,"542,520,000",1560,G.I. Generation
+Armenia,2007,female,55-74 years,8,240998,3.32,Armenia2007,,"9,206,301,700",3366,Silent
+Serbia,2002,male,55-74 years,410,772635,53.07,Serbia2002,,"16,116,843,146",2258,Silent
+Iceland,2006,female,5-14 years,0,21538,0.0,Iceland2006,,"17,048,647,568",60243,Millenials
+Luxembourg,1999,male,15-24 years,5,24781,20.18,Luxembourg1999,,"22,235,929,043",55054,Generation X
+Puerto Rico,1996,male,5-14 years,1,312022,0.32,Puerto Rico1996,,"45,340,835,000",13328,Millenials
+Canada,2005,female,5-14 years,25,1947297,1.28,Canada2005,0.892,"1,169,357,979,865",38218,Millenials
+Maldives,2007,male,55-74 years,0,12063,0.0,Maldives2007,,"1,868,383,461",6115,Silent
+Kuwait,2010,female,15-24 years,2,231645,0.86,Kuwait2010,0.809,"115,419,050,942",35171,Millenials
+Armenia,2010,female,55-74 years,7,253182,2.76,Armenia2010,0.721,"9,260,284,938",3460,Silent
+Poland,1993,male,15-24 years,486,2935400,16.56,Poland1993,,"96,045,645,026",2683,Generation X
+Cyprus,2014,male,35-54 years,13,107823,12.06,Cyprus2014,0.85,"23,359,294,149",29024,Generation X
+Philippines,2001,female,25-34 years,48,5937956,0.81,Philippines2001,,"76,262,072,468",1109,Generation X
+Mauritius,1985,male,55-74 years,9,45300,19.87,Mauritius1985,0.575,"1,080,642,033",1223,G.I. Generation
+Seychelles,2007,female,15-24 years,0,7216,0.0,Seychelles2007,,"1,033,561,654",12554,Millenials
+Israel,2000,female,15-24 years,10,530270,1.89,Israel2000,0.85,"132,339,311,284",23451,Generation X
+Antigua and Barbuda,2008,male,55-74 years,0,4158,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Silent
+Bulgaria,1997,female,35-54 years,103,1168000,8.82,Bulgaria1997,,"11,195,612,105",1411,Boomers
+Ukraine,1989,male,55-74 years,1948,3678800,52.95,Ukraine1989,,"82,709,161,099",1732,G.I. Generation
+Japan,2000,female,5-14 years,16,6090721,0.26,Japan2000,0.857,"4,887,519,660,745",40813,Millenials
+Bulgaria,1992,female,35-54 years,81,1154800,7.01,Bulgaria1992,,"10,350,515,464",1287,Boomers
+Estonia,2001,male,55-74 years,84,117120,71.72,Estonia2001,,"6,245,069,734",4711,Silent
+Luxembourg,2006,male,55-74 years,10,41414,24.15,Luxembourg2006,,"42,414,308,117",95351,Silent
+Iceland,2005,male,15-24 years,3,22100,13.57,Iceland2005,0.889,"16,691,490,114",60712,Millenials
+Chile,2011,female,55-74 years,50,1351263,3.7,Chile2011,0.821,"252,251,992,029",15854,Boomers
+Russian Federation,1996,male,55-74 years,10754,11361400,94.65,Russian Federation1996,,"391,719,993,757",2813,Silent
+Hungary,2005,female,75+ years,121,460429,26.28,Hungary2005,0.802,"113,035,361,317",11764,Silent
+Oman,2009,female,75+ years,0,13886,0.0,Oman2009,,"48,388,296,489",18557,Silent
+Australia,2007,male,25-34 years,341,1470431,23.19,Australia2007,,"851,962,785,585",43171,Generation X
+Czech Republic,2011,female,15-24 years,19,602033,3.16,Czech Republic2011,0.866,"227,948,349,666",23010,Millenials
+Cyprus,2012,male,55-74 years,5,79804,6.27,Cyprus2012,0.852,"25,041,372,222",30752,Boomers
+Colombia,1988,male,35-54 years,160,2682795,5.96,Colombia1988,,"39,212,550,050",1369,Silent
+Paraguay,1986,female,25-34 years,3,267364,1.12,Paraguay1986,,"3,439,716,562",1086,Boomers
+Chile,2013,female,75+ years,14,442189,3.17,Chile2013,0.83,"278,384,332,694",17140,Silent
+Belgium,1998,female,75+ years,86,461159,18.65,Belgium1998,,"260,601,911,536",27087,G.I. Generation
+United States,1996,male,75+ years,2586,5556200,46.54,United States1996,,"8,100,201,000,000",32928,G.I. Generation
+Italy,2001,male,35-54 years,890,8038314,11.07,Italy2001,,"1,162,317,852,349",21392,Boomers
+Poland,2008,male,25-34 years,735,3115490,23.59,Poland2008,,"533,815,789,474",14721,Generation X
+Ecuador,1995,male,75+ years,8,86756,9.22,Ecuador1995,0.665,"24,432,884,442",2453,G.I. Generation
+New Zealand,1994,male,55-74 years,76,261200,29.1,New Zealand1994,,"55,154,160,816",16615,Silent
+Netherlands,1993,female,5-14 years,2,893100,0.22,Netherlands1993,,"349,037,818,106",24385,Millenials
+Costa Rica,1992,female,5-14 years,0,359200,0.0,Costa Rica1992,,"8,528,593,084",3070,Millenials
+Bulgaria,2007,male,25-34 years,55,583293,9.43,Bulgaria2007,,"44,411,476,557",6073,Generation X
+Cuba,1999,female,25-34 years,92,1083689,8.49,Cuba1999,,"28,364,615,242",2741,Generation X
+Italy,2005,female,25-34 years,105,4143699,2.53,Italy2005,0.856,"1,852,661,982,341",33536,Generation X
+Bulgaria,2011,female,15-24 years,11,419980,2.62,Bulgaria2011,0.775,"57,418,414,504",8137,Millenials
+Republic of Korea,1996,male,15-24 years,619,4291000,14.43,Republic of Korea1996,,"598,099,073,901",14071,Generation X
+Trinidad and Tobago,2002,female,35-54 years,7,169414,4.13,Trinidad and Tobago2002,,"9,008,273,721",7578,Boomers
+Switzerland,1999,male,75+ years,139,180723,76.91,Switzerland1999,,"289,912,492,345",42859,G.I. Generation
+Lithuania,1999,female,75+ years,37,121573,30.43,Lithuania1999,,"10,972,878,636",3292,G.I. Generation
+Austria,1993,female,35-54 years,140,1054036,13.28,Austria1993,,"190,379,720,927",25611,Boomers
+Armenia,1994,female,5-14 years,1,367000,0.27,Armenia1994,,"1,315,158,670",387,Millenials
+Germany,2007,male,55-74 years,2213,9135373,24.22,Germany2007,,"3,439,953,462,907",43667,Silent
+Trinidad and Tobago,1996,male,55-74 years,17,58736,28.94,Trinidad and Tobago1996,,"5,759,537,726",4982,Silent
+Slovakia,2006,male,25-34 years,0,461745,0.0,Slovakia2006,,"70,596,729,394",13763,Generation X
+Guyana,2009,male,75+ years,2,4834,41.37,Guyana2009,,"2,061,323,854",3076,Silent
+Australia,1989,female,25-34 years,87,1383800,6.29,Australia1989,,"299,317,645,143",19223,Boomers
+Suriname,1996,male,25-34 years,6,41058,14.61,Suriname1996,,"860,630,923",2174,Generation X
+Austria,1996,male,5-14 years,4,483799,0.83,Austria1996,,"237,250,948,791",31660,Millenials
+United Kingdom,2000,female,15-24 years,101,3523496,2.87,United Kingdom2000,0.865,"1,647,951,278,560",29358,Generation X
+Denmark,2003,male,5-14 years,0,350879,0.0,Denmark2003,,"218,095,997,085",43129,Millenials
+Luxembourg,2001,male,75+ years,5,8307,60.19,Luxembourg2001,,"21,272,418,792",51391,Silent
+Aruba,2009,male,5-14 years,0,7420,0.0,Aruba2009,,"2,498,932,961",26361,Generation Z
+Slovenia,2014,female,55-74 years,21,249169,8.43,Slovenia2014,0.88,"49,904,928,335",25569,Boomers
+Costa Rica,2013,female,15-24 years,8,402392,1.99,Costa Rica2013,0.764,"49,745,088,112",11443,Millenials
+Serbia,2011,male,75+ years,211,215193,98.05,Serbia2011,0.761,"46,466,728,667",6734,Silent
+Grenada,2010,female,35-54 years,0,10509,0.0,Grenada2010,0.737,"771,015,889",8118,Generation X
+Seychelles,2007,female,35-54 years,0,12617,0.0,Seychelles2007,,"1,033,561,654",12554,Boomers
+Puerto Rico,2003,female,35-54 years,11,519735,2.12,Puerto Rico2003,,"74,827,400,000",21264,Boomers
+Netherlands,1992,female,75+ years,68,552700,12.3,Netherlands1992,,"358,330,385,840",25205,G.I. Generation
+Chile,1993,female,5-14 years,3,1290200,0.23,Chile1993,,"49,297,773,130",4006,Millenials
+Republic of Korea,1988,female,35-54 years,213,4499800,4.73,Republic of Korea1988,,"196,964,195,387",5089,Silent
+Uruguay,2000,male,25-34 years,60,235863,25.44,Uruguay2000,0.742,"22,823,255,802",7483,Generation X
+Netherlands,1989,female,25-34 years,88,1218500,7.22,Netherlands1989,,"255,039,560,740",18310,Boomers
+Chile,2008,male,25-34 years,346,1260323,27.45,Chile2008,,"179,638,496,279",11653,Generation X
+Kuwait,2005,male,5-14 years,0,195927,0.0,Kuwait2005,0.795,"80,797,945,205",39166,Millenials
+Ecuador,2008,male,5-14 years,24,1530626,1.57,Ecuador2008,,"61,762,635,000",4787,Generation Z
+Bahamas,1985,female,75+ years,0,2700,0.0,Bahamas1985,,"2,320,699,900",11393,G.I. Generation
+Portugal,2010,female,15-24 years,12,570703,2.1,Portugal2010,0.819,"238,303,443,425",23673,Millenials
+Kyrgyzstan,1992,female,75+ years,7,56800,12.32,Kyrgyzstan1992,,"2,316,562,500",603,G.I. Generation
+Italy,2008,female,55-74 years,313,7058147,4.43,Italy2008,,"2,390,729,163,615",41935,Silent
+Uruguay,2004,male,55-74 years,101,246918,40.9,Uruguay2004,,"13,686,329,890",4463,Silent
+Italy,2009,male,5-14 years,6,2886464,0.21,Italy2009,,"2,185,160,183,384",38101,Generation Z
+Armenia,2003,male,25-34 years,10,210715,4.75,Armenia2003,,"2,807,061,009",928,Generation X
+Austria,1994,female,5-14 years,6,458807,1.31,Austria1994,,"203,535,242,742",27274,Millenials
+Kazakhstan,1997,male,75+ years,50,78400,63.78,Kazakhstan1997,,"22,165,932,063",1540,G.I. Generation
+Belarus,1996,male,75+ years,76,99700,76.23,Belarus1996,,"14,756,846,154",1524,G.I. Generation
+Brazil,2006,male,15-24 years,1293,18063460,7.16,Brazil2006,,"1,107,640,297,890",6403,Millenials
+Sri Lanka,2002,male,55-74 years,641,1055685,60.72,Sri Lanka2002,,"16,536,535,647",951,Silent
+United Kingdom,2004,female,35-54 years,423,8494403,4.98,United Kingdom2004,,"2,398,555,474,185",42486,Boomers
+Norway,2014,female,5-14 years,1,303487,0.33,Norway2014,0.944,"499,338,534,779",103443,Generation Z
+Kuwait,2003,male,35-54 years,17,397654,4.28,Kuwait2003,,"47,875,838,926",24544,Boomers
+Barbados,1995,female,15-24 years,2,22000,9.09,Barbados1995,0.731,"2,261,969,870",9378,Generation X
+Finland,2011,male,35-54 years,259,715014,36.22,Finland2011,0.881,"273,674,236,773",53809,Generation X
+Aruba,2006,female,15-24 years,0,6736,0.0,Aruba2006,,"2,421,474,860",25622,Millenials
+Slovenia,2012,female,35-54 years,19,296768,6.4,Slovenia2012,0.878,"46,352,802,766",23820,Generation X
+Bahrain,1998,female,35-54 years,0,56917,0.0,Bahrain1998,,"6,183,776,596",11325,Boomers
+Puerto Rico,2004,female,55-74 years,6,339277,1.77,Puerto Rico2004,,"80,322,313,000",22874,Silent
+Australia,1988,female,55-74 years,103,1330200,7.74,Australia1988,,"235,699,941,793",15393,G.I. Generation
+Grenada,1990,male,15-24 years,1,11600,8.62,Grenada1990,,"278,098,778",3391,Generation X
+Bahamas,1995,male,55-74 years,0,10600,0.0,Bahamas1995,,"3,429,000,000",13473,Silent
+Canada,2012,female,15-24 years,137,2255895,6.07,Canada2012,0.91,"1,824,288,757,448",55347,Millenials
+Sweden,2016,female,15-24 years,36,570983,6.3,Sweden2016,,"514,459,972,806",55594,Millenials
+Guatemala,2004,female,5-14 years,8,1712578,0.47,Guatemala2004,,"23,965,275,996",2215,Millenials
+Australia,1988,female,35-54 years,157,2019000,7.78,Australia1988,,"235,699,941,793",15393,Silent
+Chile,1990,male,25-34 years,148,1167000,12.68,Chile1990,0.699,"33,113,887,818",2828,Boomers
+Finland,1994,female,55-74 years,68,513900,13.23,Finland1994,,"103,321,570,859",21699,Silent
+Republic of Korea,1999,male,35-54 years,2087,6758500,30.88,Republic of Korea1999,,"485,248,229,337",11074,Boomers
+Singapore,2000,female,35-54 years,44,548100,8.03,Singapore2000,0.819,"95,833,932,715",31446,Boomers
+United Kingdom,1998,male,55-74 years,571,5191604,11.0,United Kingdom1998,,"1,638,511,096,390",29508,Silent
+Hungary,2010,female,15-24 years,20,607500,3.29,Hungary2010,0.821,"130,922,638,689",13761,Millenials
+Republic of Korea,1998,male,35-54 years,2644,6568200,40.25,Republic of Korea1998,,"374,241,351,752",8624,Boomers
+Guyana,2013,female,25-34 years,3,52213,5.75,Guyana2013,0.634,"2,990,006,534",4372,Millenials
+Australia,2001,male,5-14 years,4,1386873,0.29,Australia2001,,"378,215,090,694",20860,Millenials
+Kiribati,1994,male,35-54 years,3,6529,45.95,Kiribati1994,,"54,832,578",845,Boomers
+Cuba,2008,male,35-54 years,407,1862869,21.85,Cuba2008,,"60,806,300,000",5686,Boomers
+Romania,1989,female,35-54 years,237,2891300,8.2,Romania1989,,"42,105,263,158",1973,Silent
+Kazakhstan,2003,male,35-54 years,1386,1855662,74.69,Kazakhstan2003,,"30,833,699,703",2232,Boomers
+Denmark,2010,male,35-54 years,142,791338,17.94,Denmark2010,0.908,"321,995,350,347",61711,Generation X
+Colombia,1991,male,25-34 years,216,2944422,7.34,Colombia1991,,"41,239,551,378",1348,Boomers
+France,2008,female,5-14 years,6,3705031,0.16,France2008,,"2,918,382,891,460",49901,Generation Z
+Puerto Rico,2008,female,5-14 years,0,266454,0.0,Puerto Rico2008,,"93,639,316,000",26840,Generation Z
+Denmark,2008,female,25-34 years,9,338992,2.65,Denmark2008,,"353,361,056,080",68447,Generation X
+Bahrain,2003,female,35-54 years,0,75430,0.0,Bahrain2003,,"11,074,822,074",15756,Boomers
+Italy,2014,male,15-24 years,170,3066963,5.54,Italy2014,0.873,"2,151,732,868,243",37035,Millenials
+Russian Federation,1994,male,75+ years,1412,1281400,110.19,Russian Federation1994,,"395,077,301,248",2853,G.I. Generation
+Czech Republic,1990,male,25-34 years,176,713900,24.65,Czech Republic1990,0.761,"40,477,403,220",4168,Boomers
+Jamaica,2002,male,35-54 years,2,286010,0.7,Jamaica2002,,"9,694,169,757",4013,Boomers
+Iceland,1994,male,35-54 years,8,33800,23.67,Iceland1994,,"6,294,803,497",25937,Boomers
+Mexico,2009,female,15-24 years,359,10695396,3.36,Mexico2009,,"900,045,362,045",8651,Millenials
+Italy,2007,female,75+ years,171,3568393,4.79,Italy2007,,"2,203,053,380,783",38935,Silent
+Australia,1994,female,5-14 years,1,1243200,0.08,Australia1994,,"322,201,314,424",19469,Millenials
+Belgium,2012,male,25-34 years,193,723202,26.69,Belgium2012,0.889,"497,884,216,569",47678,Millenials
+Mauritius,2016,male,15-24 years,18,96372,18.68,Mauritius2016,,"12,232,463,656",10570,Millenials
+Kyrgyzstan,1994,female,35-54 years,25,383400,6.52,Kyrgyzstan1994,,"1,681,006,993",437,Boomers
+Singapore,1989,male,55-74 years,41,135300,30.3,Singapore1989,,"30,423,573,842",12514,G.I. Generation
+Netherlands,2011,male,55-74 years,316,1813398,17.43,Netherlands2011,0.919,"893,757,287,202",56667,Boomers
+Belize,2000,female,25-34 years,0,19240,0.0,Belize2000,0.683,"832,072,450",3960,Generation X
+Czech Republic,2007,male,55-74 years,322,1047512,30.74,Czech Republic2007,,"189,227,050,760",19273,Silent
+Denmark,1997,male,15-24 years,45,337600,13.33,Denmark1997,,"173,537,588,008",35148,Generation X
+United States,1993,female,5-14 years,88,18078200,0.49,United States1993,,"6,878,718,000,000",28891,Millenials
+Antigua and Barbuda,2014,male,75+ years,0,1083,0.0,Antigua and Barbuda2014,0.783,"1,280,133,333",14093,Silent
+Chile,2014,female,75+ years,8,455627,1.76,Chile2014,0.832,"260,584,090,571",15883,Silent
+Trinidad and Tobago,1995,female,55-74 years,4,65284,6.13,Trinidad and Tobago1995,0.684,"5,329,214,163",4637,Silent
+Netherlands,2006,male,35-54 years,468,2508382,18.66,Netherlands2006,,"726,649,102,998",47281,Boomers
+Luxembourg,1986,male,15-24 years,3,27800,10.79,Luxembourg1986,,"6,921,264,132",20004,Generation X
+Denmark,2005,male,15-24 years,21,305232,6.88,Denmark2005,0.902,"264,467,308,109",51960,Millenials
+Belize,1987,female,75+ years,0,1535,0.0,Belize1987,,"276,550,000",1920,G.I. Generation
+Puerto Rico,1993,female,25-34 years,4,277006,1.44,Puerto Rico1993,,"36,922,456,000",11146,Boomers
+Netherlands,2014,male,75+ years,97,485554,19.98,Netherlands2014,0.922,"879,635,084,125",55325,Silent
+United States,2008,female,5-14 years,68,20113575,0.34,United States2008,,"14,718,582,000,000",52128,Generation Z
+Slovenia,2011,male,15-24 years,21,117052,17.94,Slovenia2011,0.877,"51,290,792,018",26377,Millenials
+Russian Federation,2004,male,35-54 years,17465,20843896,83.79,Russian Federation2004,,"591,016,690,743",4312,Boomers
+Saint Lucia,1987,male,25-34 years,3,8900,33.71,Saint Lucia1987,,"319,998,987",2875,Boomers
+Antigua and Barbuda,2006,female,25-34 years,0,7098,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Generation X
+Cuba,2014,male,35-54 years,409,1899900,21.53,Cuba2014,0.769,"80,656,100,000",7459,Generation X
+Guatemala,2006,male,25-34 years,54,906782,5.96,Guatemala2006,,"30,231,249,362",2653,Generation X
+Poland,2006,female,5-14 years,13,2109057,0.62,Poland2006,,"344,748,646,558",9485,Millenials
+Antigua and Barbuda,1987,male,5-14 years,0,6499,0.0,Antigua and Barbuda1987,,"337,174,852",5595,Generation X
+Paraguay,1994,female,5-14 years,2,594178,0.34,Paraguay1994,,"7,870,982,171",1981,Millenials
+Brazil,1985,female,35-54 years,296,12185200,2.43,Brazil1985,0.576,"222,942,790,435",1898,Silent
+Belgium,1993,female,35-54 years,196,1315100,14.9,Belgium1993,,"225,924,679,921",23875,Boomers
+Oman,2014,female,15-24 years,0,264178,0.0,Oman2014,0.793,"81,076,723,017",22328,Millenials
+Armenia,2014,male,55-74 years,12,224430,5.35,Armenia2014,0.733,"11,609,512,940",4142,Boomers
+Belgium,2013,male,75+ years,183,378864,48.3,Belgium2013,0.888,"520,925,468,953",49489,Silent
+Saint Lucia,1993,male,5-14 years,0,16487,0.0,Saint Lucia1993,,"574,870,405",4568,Millenials
+Romania,2011,male,5-14 years,16,1104004,1.45,Romania2011,0.786,"184,367,381,749",9086,Generation Z
+Poland,2005,female,5-14 years,7,2194572,0.32,Poland2005,0.805,"306,125,173,853",8417,Millenials
+Chile,1989,male,25-34 years,162,1123000,14.43,Chile1989,,"29,885,685,143",2599,Boomers
+Bahamas,2003,female,55-74 years,0,18079,0.0,Bahamas2003,,"8,870,090,000",30704,Silent
+Suriname,1985,male,55-74 years,6,11700,51.28,Suriname1985,,"873,250,000",2706,G.I. Generation
+Bahrain,1985,female,5-14 years,0,41400,0.0,Bahrain1985,0.727,"3,651,861,702",9980,Generation X
+Guyana,2013,male,75+ years,2,5578,35.86,Guyana2013,0.634,"2,990,006,534",4372,Silent
+Colombia,2009,female,55-74 years,46,2574750,1.79,Colombia2009,,"233,821,670,544",5643,Silent
+Spain,2002,male,35-54 years,752,5784305,13.0,Spain2002,,"705,145,868,624",17924,Boomers
+Slovakia,2006,female,25-34 years,0,445779,0.0,Slovakia2006,,"70,596,729,394",13763,Generation X
+Austria,2001,female,55-74 years,129,835836,15.43,Austria2001,,"197,337,879,195",25848,Silent
+United Kingdom,2011,female,35-54 years,417,8790957,4.74,United Kingdom2011,0.901,"2,619,700,404,733",44491,Generation X
+Estonia,2004,female,75+ years,11,65370,16.83,Estonia2004,,"12,059,201,242",9293,Silent
+France,1991,female,15-24 years,167,4110000,4.06,France1991,,"1,269,276,828,276",23821,Generation X
+Barbados,2001,male,25-34 years,0,20762,0.0,Barbados2001,,"3,116,650,000",12348,Generation X
+Slovakia,1999,male,55-74 years,143,364300,39.25,Slovakia1999,,"30,415,095,887",5966,Silent
+Saint Kitts and Nevis,1991,female,75+ years,0,1000,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,G.I. Generation
+Guyana,2002,male,5-14 years,2,93598,2.14,Guyana2002,,"722,460,886",1090,Millenials
+Puerto Rico,1998,male,55-74 years,55,257733,21.34,Puerto Rico1998,,"54,086,400,000",15610,Silent
+Lithuania,2015,female,5-14 years,3,133506,2.25,Lithuania2015,,"41,508,609,233",15073,Generation Z
+Kiribati,1992,female,15-24 years,0,6692,0.0,Kiribati1992,,"47,737,955",759,Generation X
+Iceland,2004,male,15-24 years,6,21991,27.28,Iceland2004,,"13,722,824,251",50528,Millenials
+Slovakia,1996,female,55-74 years,30,485389,6.18,Slovakia1996,,"27,821,913,815",5529,Silent
+Czech Republic,2004,male,35-54 years,540,1429901,37.76,Czech Republic2004,,"119,162,172,468",12226,Boomers
+Ukraine,1994,male,55-74 years,3174,4314500,73.57,Ukraine1994,,"52,549,555,149",1081,Silent
+Latvia,1995,male,35-54 years,339,311700,108.76,Latvia1995,0.67,"5,788,368,511",2438,Boomers
+Puerto Rico,2008,male,25-34 years,37,264001,14.02,Puerto Rico2008,,"93,639,316,000",26840,Generation X
+Saint Vincent and Grenadines,1995,female,55-74 years,0,5396,0.0,Saint Vincent and Grenadines1995,,"316,008,481",3293,Silent
+Suriname,2008,male,55-74 years,15,24124,62.18,Suriname2008,,"3,532,969,035",7601,Silent
+United States,1995,male,35-54 years,8545,36243300,23.58,United States1995,0.876,"7,664,060,000,000",31518,Boomers
+Bulgaria,2007,male,15-24 years,39,518624,7.52,Bulgaria2007,,"44,411,476,557",6073,Millenials
+Puerto Rico,1985,female,25-34 years,8,267500,2.99,Puerto Rico1985,,"20,289,200,000",6582,Boomers
+Israel,2007,female,75+ years,7,196820,3.56,Israel2007,,"178,706,717,753",27712,Silent
+Mauritius,1997,male,55-74 years,11,50600,21.74,Mauritius1997,,"4,187,367,602",4139,Silent
+Belgium,2005,female,5-14 years,0,595487,0.0,Belgium2005,0.866,"387,365,750,529",39124,Millenials
+France,2009,male,55-74 years,2033,6081994,33.43,France2009,,"2,690,222,283,968",45775,Silent
+Brazil,1992,male,55-74 years,643,5899574,10.9,Brazil1992,,"400,599,250,000",2924,Silent
+Belarus,1991,male,5-14 years,14,807600,1.73,Belarus1991,,"18,000,000,000",1899,Millenials
+Aruba,1999,male,35-54 years,3,13807,21.73,Aruba1999,,"1,722,798,883",21027,Boomers
+Belize,2006,male,55-74 years,0,7990,0.0,Belize2006,,"1,217,467,600",4815,Silent
+Norway,2001,female,15-24 years,20,264797,7.55,Norway2001,,"174,003,247,439",41281,Millenials
+Turkey,2011,female,35-54 years,82,9296163,0.88,Turkey2011,0.751,"832,523,681,194",12237,Generation X
+Finland,2012,female,35-54 years,65,692612,9.38,Finland2012,0.882,"256,706,466,091",50232,Generation X
+Switzerland,2013,female,55-74 years,109,886881,12.29,Switzerland2013,0.928,"688,504,173,431",89634,Boomers
+Austria,1996,male,35-54 years,452,1080848,41.82,Austria1996,,"237,250,948,791",31660,Boomers
+Slovakia,2005,female,55-74 years,21,514790,4.08,Slovakia2005,0.793,"62,697,540,107",12229,Silent
+Germany,2003,female,25-34 years,225,5161703,4.36,Germany2003,,"2,505,733,634,312",31816,Generation X
+Armenia,2015,male,35-54 years,15,356715,4.21,Armenia2015,,"10,553,337,673",3775,Generation X
+Belarus,2011,male,15-24 years,185,676797,27.33,Belarus2011,0.793,"61,757,788,945",6902,Millenials
+Australia,2001,female,55-74 years,81,1585702,5.11,Australia2001,,"378,215,090,694",20860,Silent
+Serbia,2001,male,75+ years,163,143189,113.84,Serbia2001,,"12,267,175,481",1718,Silent
+Portugal,2010,male,5-14 years,1,563727,0.18,Portugal2010,0.819,"238,303,443,425",23673,Generation Z
+Serbia,2006,male,15-24 years,52,491590,10.58,Serbia2006,,"30,607,991,862",4353,Millenials
+Slovenia,2000,male,15-24 years,33,147767,22.33,Slovenia2000,0.824,"20,342,201,356",10783,Generation X
+Mauritius,2003,male,5-14 years,1,102552,0.98,Mauritius2003,,"5,609,831,328",5136,Millenials
+Uruguay,1990,female,25-34 years,8,224000,3.57,Uruguay1990,0.692,"9,298,839,655",3281,Boomers
+Russian Federation,2000,female,15-24 years,1015,11120027,9.13,Russian Federation2000,,"259,708,496,267",1879,Generation X
+Panama,2015,male,15-24 years,16,338328,4.73,Panama2015,,"54,315,722,500",15158,Millenials
+Uruguay,1997,female,5-14 years,1,260472,0.38,Uruguay1997,,"23,969,823,010",8012,Millenials
+Georgia,2010,male,55-74 years,32,350500,9.13,Georgia2010,0.735,"11,638,536,834",2775,Silent
+Azerbaijan,1998,female,35-54 years,6,793900,0.76,Azerbaijan1998,,"4,446,396,218",631,Boomers
+Japan,1995,male,55-74 years,4429,12402300,35.71,Japan1995,0.838,"5,449,116,304,981",46043,Silent
+France,1994,female,5-14 years,6,3601900,0.17,France1994,,"1,393,982,750,473",25697,Millenials
+Canada,2003,male,25-34 years,426,2205120,19.32,Canada2003,,"892,380,986,368",29787,Generation X
+Canada,1988,female,75+ years,44,708300,6.21,Canada1988,,"507,354,351,182",21069,G.I. Generation
+Nicaragua,2013,male,5-14 years,1,631355,0.16,Nicaragua2013,0.628,"10,982,972,256",2062,Generation Z
+Canada,1998,male,15-24 years,457,2090656,21.86,Canada1998,,"631,813,279,407",22268,Generation X
+Bulgaria,1990,male,75+ years,174,179200,97.1,Bulgaria1990,0.695,"20,632,090,909",2451,G.I. Generation
+Latvia,2008,female,25-34 years,8,147186,5.44,Latvia2008,,"35,596,016,664",17217,Generation X
+Saint Lucia,1996,male,75+ years,0,2224,0.0,Saint Lucia1996,,"662,196,185",5031,G.I. Generation
+Canada,1993,female,55-74 years,146,2348500,6.22,Canada1993,,"577,170,761,956",21421,Silent
+Singapore,1998,male,15-24 years,22,216100,10.18,Singapore1998,,"85,707,636,233",29150,Generation X
+Mexico,2007,female,35-54 years,202,12451981,1.62,Mexico2007,,"1,052,696,282,279",10496,Boomers
+Finland,1999,female,15-24 years,19,321801,5.9,Finland1999,,"135,225,868,315",27800,Generation X
+Bulgaria,1999,male,35-54 years,301,1130200,26.63,Bulgaria1999,,"13,495,075,366",1715,Boomers
+Kyrgyzstan,1993,male,55-74 years,85,189100,44.95,Kyrgyzstan1993,,"2,028,295,455",528,Silent
+Kazakhstan,2003,female,35-54 years,202,2053544,9.84,Kazakhstan2003,,"30,833,699,703",2232,Boomers
+Belarus,1990,male,25-34 years,359,844900,42.49,Belarus1990,,"21,650,000,000",2301,Boomers
+Mauritius,2001,female,15-24 years,13,101083,12.86,Mauritius2001,,"4,536,538,211",4244,Millenials
+Kyrgyzstan,1994,female,25-34 years,10,338900,2.95,Kyrgyzstan1994,,"1,681,006,993",437,Boomers
+Romania,1996,female,35-54 years,177,2926100,6.05,Romania1996,,"37,182,938,696",1738,Boomers
+New Zealand,2012,male,25-34 years,60,283640,21.15,New Zealand2012,0.909,"176,192,886,551",42756,Millenials
+Israel,2013,male,55-74 years,71,560632,12.66,Israel2013,0.893,"292,489,185,194",40477,Boomers
+Bahrain,2010,female,75+ years,0,4625,0.0,Bahrain2010,0.819,"25,713,271,277",22572,Silent
+Saint Lucia,1994,female,55-74 years,0,7403,0.0,Saint Lucia1994,,"600,005,564",4704,Silent
+Argentina,1999,male,15-24 years,355,3279728,10.82,Argentina1999,,"283,523,000,000",8546,Generation X
+Italy,1986,female,35-54 years,397,7477000,5.31,Italy1986,,"638,273,986,102",11762,Silent
+Japan,2009,male,25-34 years,2657,7987000,33.27,Japan2009,,"5,231,382,674,594",43415,Generation X
+Australia,1999,female,5-14 years,6,1300535,0.46,Australia1999,,"388,395,162,301",22016,Millenials
+Seychelles,2012,female,75+ years,0,2014,0.0,Seychelles2012,0.761,"1,059,498,884",13044,Silent
+Seychelles,2012,male,75+ years,0,972,0.0,Seychelles2012,0.761,"1,059,498,884",13044,Silent
+Finland,2013,male,55-74 years,216,647538,33.36,Finland2013,0.882,"269,980,111,643",52572,Boomers
+Romania,1993,male,35-54 years,943,2869900,32.86,Romania1993,,"26,362,894,737",1237,Boomers
+United Kingdom,2012,female,35-54 years,403,8852151,4.55,United Kingdom2012,0.901,"2,662,085,168,499",44585,Generation X
+Suriname,2008,female,75+ years,1,6315,15.84,Suriname2008,,"3,532,969,035",7601,Silent
+Japan,2003,male,75+ years,1733,3835000,45.19,Japan2003,,"4,445,658,071,222",36926,Silent
+Portugal,2014,male,5-14 years,0,537929,0.0,Portugal2014,0.83,"229,629,822,122",23091,Generation Z
+Malta,1991,male,15-24 years,3,26100,11.49,Malta1991,,"2,750,041,434",8313,Generation X
+Israel,2005,male,25-34 years,56,529472,10.58,Israel2005,0.87,"142,462,925,574",22901,Generation X
+Germany,2015,female,55-74 years,908,10054932,9.03,Germany2015,,"3,375,611,100,742",43201,Boomers
+Singapore,1995,female,75+ years,24,41800,57.42,Singapore1995,0.773,"87,890,009,877",31783,G.I. Generation
+Uzbekistan,2012,female,75+ years,4,338557,1.18,Uzbekistan2012,0.668,"51,821,573,338",1964,Silent
+United Kingdom,2011,male,15-24 years,346,4236989,8.17,United Kingdom2011,0.901,"2,619,700,404,733",44491,Millenials
+Albania,1994,male,5-14 years,1,371800,0.27,Albania1994,,"1,985,673,798",697,Millenials
+Japan,1985,male,75+ years,1340,1791000,74.82,Japan1985,0.791,"1,398,892,744,821",12401,G.I. Generation
+Finland,1987,female,25-34 years,44,379700,11.59,Finland1987,,"91,642,093,873",19861,Boomers
+Barbados,1994,male,5-14 years,1,21100,4.74,Barbados1994,,"2,151,295,182",8953,Millenials
+Bahrain,2010,male,5-14 years,0,81414,0.0,Bahrain2010,0.819,"25,713,271,277",22572,Generation Z
+Russian Federation,1989,female,55-74 years,3042,15522500,19.6,Russian Federation1989,,"506,500,173,960",3740,G.I. Generation
+Thailand,2005,male,55-74 years,486,3955327,12.29,Thailand2005,0.684,"189,318,499,954",3094,Silent
+Chile,2003,female,15-24 years,53,1307367,4.05,Chile2003,,"75,643,459,840",5208,Millenials
+Chile,1990,female,25-34 years,27,1162000,2.32,Chile1990,0.699,"33,113,887,818",2828,Boomers
+Paraguay,2008,male,75+ years,7,51965,13.47,Paraguay2008,,"18,504,130,753",3438,Silent
+Netherlands,2014,female,55-74 years,197,1922945,10.24,Netherlands2014,0.922,"879,635,084,125",55325,Boomers
+Cuba,2004,female,75+ years,40,286074,13.98,Cuba2004,,"38,203,000,000",3611,Silent
+Italy,1987,male,5-14 years,11,3826100,0.29,Italy1987,,"803,055,418,883",14756,Generation X
+Belize,2005,female,35-54 years,0,25383,0.0,Belize2005,0.701,"1,114,222,550",4547,Boomers
+Brazil,2002,male,75+ years,219,1249499,17.53,Brazil2002,,"507,962,487,700",3121,Silent
+Belgium,2004,male,35-54 years,618,1542915,40.05,Belgium2004,,"370,885,026,074",37661,Boomers
+Panama,1985,female,35-54 years,1,182000,0.55,Panama1985,0.648,"6,541,517,100",3443,Silent
+Cyprus,2010,female,5-14 years,0,45354,0.0,Cyprus2010,0.848,"25,562,251,656",32477,Generation Z
+Thailand,2010,female,35-54 years,345,10369541,3.33,Thailand2010,0.716,"341,105,009,515",5707,Generation X
+Spain,1998,female,15-24 years,44,2963300,1.48,Spain1998,,"617,041,986,858",16473,Generation X
+Cyprus,2014,male,25-34 years,8,68555,11.67,Cyprus2014,0.85,"23,359,294,149",29024,Millenials
+San Marino,1999,male,55-74 years,1,2542,39.34,San Marino1999,,"1,215,640,315",48255,Silent
+Ecuador,2006,male,35-54 years,166,1486091,11.17,Ecuador2006,,"46,802,044,000",3759,Boomers
+Nicaragua,2015,female,5-14 years,7,592557,1.18,Nicaragua2015,,"12,611,087,031",2303,Generation Z
+Kyrgyzstan,2001,female,15-24 years,18,487701,3.69,Kyrgyzstan2001,,"1,525,112,242",345,Millenials
+Singapore,2010,female,5-14 years,0,224500,0.0,Singapore2010,0.897,"236,421,782,178",66099,Generation Z
+Germany,2014,female,55-74 years,855,10013338,8.54,Germany2014,0.916,"3,890,606,893,347",50167,Boomers
+Switzerland,2002,female,25-34 years,31,514628,6.02,Switzerland2002,,"301,416,810,214",43419,Generation X
+New Zealand,2006,male,5-14 years,2,308750,0.65,New Zealand2006,,"111,608,845,081",28628,Millenials
+Thailand,1991,female,75+ years,22,532918,4.13,Thailand1991,,"98,234,695,722",1891,G.I. Generation
+Brazil,1999,female,15-24 years,281,16927682,1.66,Brazil1999,,"599,388,579,986",3864,Generation X
+Trinidad and Tobago,1989,female,15-24 years,20,116000,17.24,Trinidad and Tobago1989,,"4,323,058,824",4040,Generation X
+Russian Federation,2005,male,25-34 years,7796,10578048,73.7,Russian Federation2005,,"764,017,107,992",5611,Generation X
+Grenada,2013,male,15-24 years,0,10812,0.0,Grenada2013,0.742,"842,620,111",8789,Millenials
+Poland,2003,male,35-54 years,2347,5516698,42.54,Poland2003,,"217,513,049,292",5983,Boomers
+Costa Rica,2012,male,15-24 years,58,419511,13.83,Costa Rica2012,0.761,"46,473,128,286",10832,Millenials
+Saint Vincent and Grenadines,1997,male,55-74 years,0,4666,0.0,Saint Vincent and Grenadines1997,,"347,770,000",3613,Silent
+United Kingdom,1986,male,25-34 years,616,4039982,15.25,United Kingdom1986,,"601,452,653,181",11323,Boomers
+Italy,1995,female,15-24 years,64,3966396,1.61,Italy1995,0.799,"1,170,787,352,906",21625,Generation X
+Cyprus,2016,female,25-34 years,1,71307,1.4,Cyprus2016,,"20,153,871,681",25098,Millenials
+Sweden,2000,male,5-14 years,1,601300,0.17,Sweden2000,0.897,"259,802,012,617",30896,Millenials
+Czech Republic,2002,female,15-24 years,26,714488,3.64,Czech Republic2002,,"81,910,771,994",8399,Millenials
+Montenegro,2005,male,35-54 years,29,85719,33.83,Montenegro2005,0.75,"2,257,174,481",3870,Boomers
+Kuwait,1994,female,15-24 years,0,111900,0.0,Kuwait1994,,"24,848,483,838",17161,Generation X
